@@ -1,0 +1,116 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "properties": {
+        "base_url": {
+            "type": "string",
+            "format": "uri"
+        },
+        "custom": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "url": {
+                        "type": "string"
+                    },
+                    "preview": {
+                        "type": "string"
+                    },
+                    "preview_device": {
+                        "type": "integer"
+                    },
+                    "authors": {
+                        "type": "string"
+                    },
+                    "tags": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "enum": [
+                                "bundle",
+                                "video",
+                                "animated",
+                                "replacesWallpapers",
+                                "addsToGallery",
+                                "appearanceAware",
+                                "iPhone",
+                                "iPad"
+                            ]
+                        },
+                        "uniqueItems": true
+                    }
+                },
+                "required": [
+                    "name",
+                    "url",
+                    "preview",
+                    "preview_device",
+                    "authors",
+                    "tags"
+                ]
+            }
+        },
+        "default": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string"
+                    },
+                    "description": {
+                        "type": "string"
+                    },
+                    "url": {
+                        "type": "string"
+                    },
+                    "preview": {
+                        "type": "string"
+                    },
+                    "preview_device": {
+                        "type": "integer"
+                    },
+                    "authors": {
+                        "type": "string"
+                    },
+                    "tags": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "enum": [
+                                "bundle",
+                                "video",
+                                "animated",
+                                "replacesWallpapers",
+                                "addsToGallery",
+                                "appearanceAware",
+                                "iPhone",
+                                "iPad"
+                            ]
+                        },
+                        "uniqueItems": true
+                    }
+                },
+                "required": [
+                    "name",
+                    "url",
+                    "preview",
+                    "preview_device",
+                    "authors"
+                ]
+            }
+        }
+    },
+    "required": [
+        "base_url",
+        "custom",
+        "default"
+    ]
+}
