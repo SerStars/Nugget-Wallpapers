@@ -101,9 +101,9 @@
                 "required": [
                     "name",
                     "url",
+                    "description",
                     "preview",
-                    "preview_device",
-                    "authors"
+                    "preview_device"
                 ]
             }
         }

@@ -6,7 +6,7 @@
       "name": "Wii Homebrew Channel",
       "description": "The Wii Homebrew Channel banner as your wallpaper!",
       "url": "wallpapers/custom/HomebrewChannel.tendies",
-      "preview": "preview/custom/HomebrewChannel.mov",
+      "preview": "previews/custom/HomebrewChannel.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
       "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
@@ -15,7 +15,7 @@
       "name": "Wii Homebrew Channel Red",
       "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
       "url": "wallpapers/custom/HomebrewChannelRed.tendies",
-      "preview": "preview/custom/HomebrewChannelRed.mov",
+      "preview": "previews/custom/HomebrewChannelRed.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
       "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
@@ -24,7 +24,7 @@
       "name": "iOS 6 Revamp",
       "description": "Pretend like your phone is on iOS 6 again!",
       "url": "wallpapers/custom/iOS6Revamp.tendies",
-      "preview": "preview/custom/iOS6Revamp.mp4",
+      "preview": "previews/custom/iOS6Revamp.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
       "tags": ["animated", "addsToGallery", "iPhone"]
@@ -33,7 +33,7 @@
       "name": "Minecraft Panorama",
       "description": "A scrolling panorama from Minecraft as your wallpaper!",
       "url": "wallpapers/custom/MCPanorama.tendies",
-      "preview": "preview/custom/MCPanorama.mov",
+      "preview": "previews/custom/MCPanorama.mov",
       "preview_device": 2,
       "authors": "@pengubow",
       "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
@@ -42,7 +42,7 @@
       "name": "Splatoon",
       "description": "A wallpaper based on Splatoon featuring Callie and Marie!",
       "url": "wallpapers/custom/Splatoon-SquidSisters.tendies",
-      "preview": "preview/custom/Splatoon.mp4",
+      "preview": "previews/custom/Splatoon.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
       "tags": ["animated", "addsToGallery", "iPhone"]
@@ -51,7 +51,7 @@
       "name": "Tinted Cubes",
       "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
       "url": "wallpapers/custom/TintedCubes.tendies",
-      "preview": "preview/custom/cubes.mov",
+      "preview": "previews/custom/cubes.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
       "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
@@ -60,7 +60,7 @@
       "name": "Rainbow Sprinkles",
       "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
       "url": "wallpapers/custom/RainbowSprinkles.tendies",
-      "preview": "preview/custom/sprinkles.mov",
+      "preview": "previews/custom/sprinkles.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
       "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone", "iPad"]
@@ -69,7 +69,7 @@
       "name": "Balatro",
       "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
       "url": "wallpapers/custom/BalatroMenu.tendies",
-      "preview": "preview/custom/balatro.mp4",
+      "preview": "previews/custom/balatro.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
       "tags": ["animated", "addsToGallery", "iPhone"]
@@ -78,7 +78,7 @@
       "name": "Space",
       "description": "",
       "url": "wallpapers/custom/Space.tendies",
-      "preview": "preview/custom/Space.mov",
+      "preview": "previews/custom/Space.mov",
       "preview_device": 1,
       "authors": "@_systemless on Discord",
       "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
@@ -87,7 +87,7 @@
       "name": "Boykisser",
       "description": "Boykisser all over your screen",
       "url": "wallpapers/custom/boykisser.tendies",
-      "preview": "preview/custom/boykisser.mov",
+      "preview": "previews/custom/boykisser.mov",
       "preview_device": 1,
       "authors": "@ch_eese on Discord",
       "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
@@ -96,11 +96,75 @@
       "name": "iOS Backup Things Logo",
       "description": "iOS Backup Things logo as your wallpaper!",
       "url": "wallpapers/custom/iOSBackupThings.tendies",
-      "preview": "preview/custom/iOSBackupThings.mp4",
+      "preview": "previews/custom/iOSBackupThings.mp4",
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
       "tags": ["animated", "addsToGallery", "iPhone"]
     }
   ],
-  "default": []
+  "default": [
+    {
+      "name": "Default Wallpapers",
+      "description": "The default wallpapers on every device!",
+      "url": "wallpapers/default/Defaults.tendies",
+      "preview": "previews/default/Defaults.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iOS 13",
+      "description": "The iOS 13 wallpapers!",
+      "url": "wallpapers/default/iOS13.tendies",
+      "preview": "previews/default/iOS13.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iOS 14",
+      "description": "The iOS 14 wallpapers!",
+      "url": "wallpapers/default/iOS14.tendies",
+      "preview": "previews/default/iOS14.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPad Air 4th Gen",
+      "description": "The iPad Air 4th Gen wallpapers!",
+      "url": "wallpapers/default/iPadAirGen4.tendies",
+      "preview": "previews/default/iPadAirGen4.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPhone 11",
+      "description": "The iPhone 11 wallpapers!",
+      "url": "wallpapers/default/iPhone11.tendies",
+      "preview": "previews/default/iPhone11.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "description": "The iPhone 11 Pro wallpapers!",
+      "url": "wallpapers/default/iPhone11Pro.tendies",
+      "preview": "previews/default/iPhone11Pro.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPhone 12",
+      "description": "The iPhone 12 wallpapers!",
+      "url": "wallpapers/default/iPhone12.tendies",
+      "preview": "previews/default/iPhone12.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "description": "The iPhone 12 Pro wallpapers!",
+      "url": "wallpapers/default/iPhone12Pro.tendies",
+      "preview": "previews/default/iPhone12Pro.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPhone SE 2nd Gen",
+      "description": "The iPad Air 4th Gen wallpapers!",
+      "url": "wallpapers/default/iPhoneSEGen2.tendies",
+      "preview": "previews/default/iPhoneSEGen2.png",
+      "preview_device": 2
+    }
+  ]
 }
