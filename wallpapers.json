@@ -105,42 +105,36 @@
   "default": [
     {
       "name": "Default Wallpapers",
-      "description": "The default wallpapers on every device!",
       "url": "wallpapers/default/Defaults.tendies",
       "preview": "previews/default/Defaults.png",
       "preview_device": 2
     },
     {
       "name": "iOS 13",
-      "description": "The iOS 13 wallpapers!",
       "url": "wallpapers/default/iOS13.tendies",
       "preview": "previews/default/iOS13.png",
       "preview_device": 2
     },
     {
       "name": "iOS 14",
-      "description": "The iOS 14 wallpapers!",
       "url": "wallpapers/default/iOS14.tendies",
       "preview": "previews/default/iOS14.png",
       "preview_device": 2
     },
     {
       "name": "iPad Air 4th Gen",
-      "description": "The iPad Air 4th Gen wallpapers!",
       "url": "wallpapers/default/iPadAirGen4.tendies",
       "preview": "previews/default/iPadAirGen4.png",
       "preview_device": 2
     },
     {
       "name": "iPhone 11",
-      "description": "The iPhone 11 wallpapers!",
       "url": "wallpapers/default/iPhone11.tendies",
       "preview": "previews/default/iPhone11.png",
       "preview_device": 2
     },
     {
       "name": "iPhone SE 2nd Gen",
-      "description": "The iPad Air 4th Gen wallpapers!",
       "url": "wallpapers/default/iPhoneSEGen2.tendies",
       "preview": "previews/default/iPhoneSEGen2.png",
       "preview_device": 2
