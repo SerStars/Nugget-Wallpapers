@@ -114,7 +114,7 @@
       "name": "Mario Galaxy",
       "description": "A wallpaper based on Super Mario Galaxy!",
       "url": "wallpapers/custom/MarioGalaxy.tendies",
-      "preview": "previews/custom/galaxy.mp4",
+      "preview": "previews/custom/galaxy.mov",
       "preview_device": 1,
       "authors": "@dootskyre",
       "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
@@ -141,7 +141,7 @@
       "name": "iPhone 15 Sea Glass Collection",
       "description": "iOS 18 or higher required",
       "url": "wallpapers/custom/iPhone15SeaGlass.tendies",
-      "preview": "previews/custom/iPhone15SeaGlass.jpg",
+      "preview": "previews/custom/iPhone15SeaGlass.png",
       "preview_device": 2,
       "authors": "@klaus.peter93",
       "tags": ["addsToGallery", "bundle", "appearanceAware", "iPhone"]
@@ -150,13 +150,13 @@
       "name": "SpinningGear",
       "description": "",
       "url": "wallpapers/custom/SpinningGear.tendies",
-      "preview": "previews/custom/SpinningGear.jpg",
+      "preview": "previews/custom/SpinningGear.mp4",
       "preview_device": 1,
       "authors": "@klaus.peter93",
       "tags": ["animated", "addsToGallery", "iPhone"]
     },
     {
-      "name": "iPhone15ProTitaniumGreen",
+      "name": "iPhone15 Pro Titanium Green",
       "description": "",
       "url": "wallpapers/custom/iPhone15ProTitaniumGreen.tendies",
       "preview": "previews/custom/iPhone15ProTitaniumGreen.png",
