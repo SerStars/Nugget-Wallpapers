@@ -21,6 +21,15 @@
       "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
     },
     {
+      "name": "WiiBeer",
+      "description": "A color swap reminiscent of the old iBeer app! Look who wants to drink me!",
+      "url": "wallpapers/custom/WiiBeer.tendies",
+      "preview": "previews/custom/WiiBeer.mov",
+      "preview_device": 1,
+      "authors": "@dootskyre",
+      "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
+    },
+    {
       "name": "iOS 6 Revamp",
       "description": "Pretend like your phone is on iOS 6 again!",
       "url": "wallpapers/custom/iOS6Revamp.tendies",
