@@ -30,6 +30,24 @@
       "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
     },
     {
+      "name": "Space",
+      "description": "",
+      "url": "wallpapers/custom/Space.tendies",
+      "preview": "previews/custom/Space.mov",
+      "preview_device": 1,
+      "authors": "@_systemless",
+      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
+    },
+    {
+      "name": "Among Us",
+      "description": "",
+      "url": "wallpapers/custom/Amogus.tendies",
+      "preview": "previews/custom/Amogus.mov",
+      "preview_device": 2,
+      "authors": "@LeminLimez",
+      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
+    },
+    {
       "name": "iOS 6 Revamp",
       "description": "Pretend like your phone is on iOS 6 again!",
       "url": "wallpapers/custom/iOS6Revamp.tendies",
@@ -91,15 +109,6 @@
       "preview_device": 1,
       "authors": "@dularkian on GitHub",
       "tags": ["animated", "addsToGallery", "iPhone"]
-    },
-    {
-      "name": "Space",
-      "description": "",
-      "url": "wallpapers/custom/Space.tendies",
-      "preview": "previews/custom/Space.mov",
-      "preview_device": 1,
-      "authors": "@_systemless",
-      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
     },
     {
       "name": "Boykisser",
