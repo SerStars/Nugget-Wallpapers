@@ -39,15 +39,6 @@
       "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
     },
     {
-      "name": "Among Us",
-      "description": "",
-      "url": "wallpapers/custom/Amogus.tendies",
-      "preview": "previews/custom/Amogus.mov",
-      "preview_device": 1,
-      "authors": "@LeminLimez",
-      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
-    },
-    {
       "name": "iOS 6 Revamp",
       "description": "Pretend like your phone is on iOS 6 again!",
       "url": "wallpapers/custom/iOS6Revamp.tendies",
@@ -63,6 +54,15 @@
       "preview": "previews/custom/MCPanorama.mov",
       "preview_device": 2,
       "authors": "@pengubow",
+      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
+    },
+    {
+      "name": "Sakura Tree",
+      "description": "A beautiful Sakura tree with leaves falling!",
+      "url": "wallpapers/custom/Sakura.tendies",
+      "preview": "previews/custom/Sakura.mov",
+      "preview_device": 1,
+      "authors": "@jam_minty",
       "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
     },
     {
@@ -181,6 +181,15 @@
       "preview_device": 3,
       "authors": "@forcequitOS",
       "tags": ["addsToGallery", "bundle", "video", "iPhone"]
+    },
+    {
+      "name": "Apple Logo",
+      "description": "An animated RGB Apple logo for your background!",
+      "url": "wallpapers/custom/AppleLogo.tendies",
+      "preview": "previews/custom/AppleLogo.mov",
+      "preview_device": 3,
+      "authors": "@jam_minty",
+      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
     }
   ],
   "default": [
