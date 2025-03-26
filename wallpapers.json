@@ -196,9 +196,18 @@
       "description": "An animated RGB Apple logo for your background!",
       "url": "wallpapers/custom/AppleLogo.tendies",
       "preview": "previews/custom/AppleLogo.mov",
-      "preview_device": 3,
+      "preview_device": 1,
       "authors": "@jam_minty",
       "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
+    },
+    {
+      "name": "iSoda",
+      "description": "A color swap reminiscent of popular sodas! Look who wants to drink me!",
+      "url": "wallpapers/custom/iSoda.tendies",
+      "preview": "previews/custom/iSoda.mov",
+      "preview_device": 1,
+      "authors": "@jam_minty",
+      "tags": ["animated", "addsToGallery", "appearanceAware", "iPhone"]
     }
   ],
   "default": [
