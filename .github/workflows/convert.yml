@@ -37,7 +37,7 @@ jobs:
                 found_videos=true
                 echo "Converting $video to GIF..."
                 ffmpeg -i "$video" \
-                  -vf "fps=24,scale=480:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse=dither=bayer:bayer_scale=5:diff_mode=rectangle" \
+                  -vf "fps=15,scale=320:-1:flags=lanczos" \
                   -c:v gif \
                   "$output_gif"
               else
