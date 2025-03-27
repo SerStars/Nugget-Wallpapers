@@ -1,6 +1,6 @@
 {
-  "$schema": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/schema.json",
-  "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/",
+  "$schema": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/dev/schema.json",
+  "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/dev/",
   "custom": [
     {
       "name": "Wii Homebrew Channel",
