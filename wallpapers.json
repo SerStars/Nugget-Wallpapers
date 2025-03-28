@@ -213,7 +213,7 @@
       "name": "Nexus",
       "description": "A remake of the android nexus wallpaper.",
       "url": "wallpapers/custom/Nexus.tendies",
-      "preview": "previews/custom/video/Nexus.mov",
+      "preview": "previews/custom/gifs/Nexus.gif",
       "preview_device": 1,
       "authors": "@bebebole",
       "tags": ["animated", "addsToGallery", "iPhone"]
@@ -222,7 +222,7 @@
       "name": "Midnight Brisa",
       "description": "Purple and blue gradient waves.",
       "url": "wallpapers/custom/MidnightBrisa.tendies",
-      "preview": "previews/custom/video/MidnightBrisa.mov",
+      "preview": "previews/custom/gifs/MidnightBrisa.gif",
       "preview_device": 1,
       "authors": "@limonetexd",
       "tags": ["animated", "addsToGallery", "iPhone"]
@@ -231,7 +231,7 @@
       "name": "Stars",
       "description": "Something with stars.",
       "url": "wallpapers/custom/Stars.tendies",
-      "preview": "previews/custom/video/Stars.mov",
+      "preview": "previews/custom/gifs/Stars.gif",
       "preview_device": 1,
       "authors": "@kukuruzka165",
       "tags": ["animated", "addsToGallery", "iPhone"]
