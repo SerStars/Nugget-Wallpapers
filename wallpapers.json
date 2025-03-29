@@ -244,6 +244,33 @@
       "preview_device": 1,
       "authors": "@anhnguyenlost13",
       "tags": ["animated", "addsToGallery", "iPhone"]
+    },
+    {
+      "name": "Graduation",
+      "description": "But he made Graduation!",
+      "url": "wallpapers/custom/Graduation.tendies",
+      "preview": "previews/custom/gifs/Graduation.gif",
+      "preview_device": 1,
+      "authors": "@rownie",
+      "tags": ["animated", "addsToGallery", "iPhone"]
+    },
+    {
+      "name": "Patrick on a Seahorse",
+      "description": "Patricc vibing on da seahorse",
+      "url": "wallpapers/custom/PatrickSeahorse.tendies",
+      "preview": "previews/custom/gifs/PatrickSeahorse.gif",
+      "preview_device": 1,
+      "authors": "@ellibarks",
+      "tags": ["animated", "addsToGallery", "iPhone"]
+    },
+    {
+      "name": "Nintendo Switch",
+      "description": "You better switch up that attitude or wii are gonna have a problem.",
+      "url": "wallpapers/custom/NintendoSwitch.tendies",
+      "preview": "previews/custom/gifs/NintendoSwitch.gif",
+      "preview_device": 1,
+      "authors": "@c4ndyf1sh",
+      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
     }
   ],
   "default": [
