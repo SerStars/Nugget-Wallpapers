@@ -723,6 +723,18 @@
             "preview_device": 4
         },
         {
+            "name": "Desert",
+            "url": "wallpapers/default/Desert.tendies",
+            "preview": "previews/default/images/Desert.png",
+            "preview_device": 4
+        },
+        {
+            "name": "Lake (iOS 14)",
+            "url": "wallpapers/default/Lake.tendies",
+            "preview": "previews/default/images/Lake.png",
+            "preview_device": 4
+        },
+        {
             "name": "iOS 15",
             "url": "wallpapers/default/iOS15.tendies",
             "preview": "previews/default/images/iOS15.png",
@@ -732,6 +744,12 @@
             "name": "iOS 16",
             "url": "wallpapers/default/iOS16.tendies",
             "preview": "previews/default/images/iOS16.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iOS 17",
+            "url": "wallpapers/default/iOS17.tendies",
+            "preview": "previews/default/images/iOS17.png",
             "preview_device": 4
         },
         {
@@ -807,9 +825,9 @@
             "preview_device": 4
         },
         {
-            "name": "Lake",
-            "url": "wallpapers/default/Lake.tendies",
-            "preview": "previews/default/images/Lake.png",
+            "name": "iPhone 14",
+            "url": "https://atums.world/raw/iPhone14.tendies",
+            "preview": "previews/default/images/iPhone14.png",
             "preview_device": 4
         }
     ]
