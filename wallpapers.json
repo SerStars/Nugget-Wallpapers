@@ -701,6 +701,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Sonic Mania Mirage Saloon",
+            "description": "Wallpaper of Mirage Saloon from Sonic Mania\n\nFulfilled suggestion",
+            "url": "wallpapers/custom/smania.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_03-31-2025_22-03-31_1.gif",
+            "preview_device": 1,
+            "authors": "semay",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
