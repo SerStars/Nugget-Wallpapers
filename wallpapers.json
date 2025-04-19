@@ -727,6 +727,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Lil Uzi Vert vs. The World",
+            "description": "Based off of the 2016 XXL Freshman's album they made that same year!",
+            "url": "wallpapers/custom/Lil_Uzi_Vert_Vs._The_World.tendies",
+            "preview": "previews/custom/gifs/preview.gif",
+            "preview_device": 1,
+            "authors": "dularkian on GitHub",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
