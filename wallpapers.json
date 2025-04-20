@@ -740,6 +740,20 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Persona 4 Wallpaper",
+            "description": "Looks better with Always On Display (i think).",
+            "url": "wallpapers/custom/P4Theme.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-19-2025_20-08-21_1.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "replacesWallpapers",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
