@@ -754,6 +754,19 @@
                 "replacesWallpapers",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Persona 3 Classic Wallpaper",
+            "description": "This time it\u2019s the classic UI. Not Reload.",
+            "url": "wallpapers/custom/P3ClassicTheme.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-24-2025_06-01-37_1.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
