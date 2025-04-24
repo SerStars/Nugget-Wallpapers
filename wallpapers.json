@@ -714,6 +714,72 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Persona 5 Menu Wallpaper",
+            "description": "Persona fans are gonna love this.",
+            "url": "wallpapers/custom/P5Theme.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-18-2025_21-26-34_1.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Lil Uzi Vert vs. The World",
+            "description": "Based off of the 2016 XXL Freshman's album they made that same year!",
+            "url": "wallpapers/custom/Lil_Uzi_Vert_Vs._The_World.tendies",
+            "preview": "previews/custom/gifs/preview.gif",
+            "preview_device": 1,
+            "authors": "dularkian on GitHub",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 4 Wallpaper",
+            "description": "Looks better with Always On Display (i think).",
+            "url": "wallpapers/custom/P4Theme.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-19-2025_20-08-21_1.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "replacesWallpapers",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 3 Classic Wallpaper",
+            "description": "This time it\u2019s the classic UI. Not Reload.",
+            "url": "wallpapers/custom/P3ClassicTheme.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-24-2025_06-01-37_1.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Undertale Ruins Scrolling Wallpaper",
+            "description": "Ruins, now on your phone!",
+            "url": "wallpapers/custom/UndertaleRuins.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-17-2025_18-55-26_1.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
