@@ -898,15 +898,33 @@
             "preview_device": 4
         },
         {
+            "name": "iPhone SE 3rd Gen",
+            "url": "wallpapers/default/iPhoneSEGen3.tendies",
+            "preview": "previews/default/images/iPhoneSEGen3.png",
+            "preview_device": 4
+        },
+        {
             "name": "iPhone 14",
             "url": "wallpapers/default/iPhone14.tendies",
             "preview": "previews/default/images/iPhone14.png",
             "preview_device": 4
         },
         {
-            "name": "iPhone SE 3rd Gen",
-            "url": "wallpapers/default/iPhoneSEGen3.tendies",
-            "preview": "previews/default/images/iPhoneSEGen3.png",
+            "name": "iPhone 14 Pro",
+            "url": "wallpapers/default/iPhone14Pro.tendies",
+            "preview": "previews/default/images/iPhone14Pro.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 15",
+            "url": "wallpapers/default/iPhone15.tendies",
+            "preview": "previews/default/images/iPhone15.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 15 Pro",
+            "url": "wallpapers/default/iPhone15Pro.tendies",
+            "preview": "previews/default/images/iPhone15Pro.png",
             "preview_device": 4
         }
     ]
