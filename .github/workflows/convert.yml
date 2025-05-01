@@ -1,5 +1,4 @@
 name: Convert Videos to GIFs
-
 on:
   push:
     paths:
