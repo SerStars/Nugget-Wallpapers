@@ -46,7 +46,7 @@
         },
         {
             "name": "Space",
-            "description": "",
+            "description": "The Space!",
             "url": "wallpapers/custom/Space.tendies",
             "preview": "previews/custom/gifs/Space.gif",
             "preview_device": 1,
@@ -60,7 +60,7 @@
         },
         {
             "name": "Among Us",
-            "description": "",
+            "description": "The Space! Wait, what's that?",
             "url": "wallpapers/custom/Amogus.tendies",
             "preview": "previews/custom/gifs/Amogus.gif",
             "preview_device": 1,
@@ -470,7 +470,7 @@
         },
         {
             "name": "Black Goku",
-            "description": "",
+            "description": "Reveal your true powers.",
             "url": "wallpapers/custom/BlackGoku.tendies",
             "preview": "previews/custom/gifs/BlackGoku.gif",
             "preview_device": 1,
@@ -535,7 +535,7 @@
         },
         {
             "name": "Honor Magic V Flip",
-            "description": "",
+            "description": "Cute!",
             "url": "wallpapers/custom/HonorMagicVFlip.tendies",
             "preview": "previews/custom/gifs/HonorMagicVFlip.gif",
             "preview_device": 1,
@@ -547,7 +547,7 @@
         },
         {
             "name": "Persona 3 Reload (pause menu)",
-            "description": "",
+            "description": "Your phone is now a game.",
             "url": "wallpapers/custom/Persona3.tendies",
             "preview": "previews/custom/gifs/Persona3.gif",
             "preview_device": 1,
@@ -559,7 +559,7 @@
         },
         {
             "name": "Skeleton",
-            "description": "",
+            "description": "Peace, my friend.",
             "url": "wallpapers/custom/Skelet.tendies",
             "preview": "previews/custom/gifs/Skelet.gif",
             "preview_device": 1,
@@ -572,7 +572,7 @@
         },
         {
             "name": "Stonks Up",
-            "description": "",
+            "description": "YES!",
             "url": "wallpapers/custom/StonksUp.tendies",
             "preview": "previews/custom/gifs/StonksUp.gif",
             "preview_device": 1,
@@ -585,7 +585,7 @@
         },
         {
             "name": "Stonks Down",
-            "description": "",
+            "description": "NO!",
             "url": "wallpapers/custom/StonksDown.tendies",
             "preview": "previews/custom/gifs/StonksDown.gif",
             "preview_device": 1,
@@ -598,9 +598,9 @@
         },
         {
             "name": "Black Hole",
-            "description": "",
-            "url": "wallpapers/custom/black_hole_optimized_purple.tendies",
-            "preview": "previews/custom/gifs/black_hole_optimized_purple.gif",
+            "description": "Cool, beautiful, and strong.",
+            "url": "wallpapers/custom/BlackHole.tendies",
+            "preview": "previews/custom/gifs/BlackHole.gif",
             "preview_device": 1,
             "authors": "@i.mes",
             "tags": [
@@ -611,7 +611,7 @@
         },
         {
             "name": "Cat Volleyball",
-            "description": "",
+            "description": "Hapi Hapi Hapi",
             "url": "wallpapers/custom/catvolleyball-lite.tendies",
             "preview": "previews/custom/gifs/catvolleyball-lite.gif",
             "preview_device": 2,
@@ -626,7 +626,7 @@
         },
         {
             "name": "I am in.",
-            "description": "",
+            "description": "$%@!",
             "url": "wallpapers/custom/i_am_in.tendies",
             "preview": "previews/custom/gifs/i_am_in.gif",
             "preview_device": 1,
@@ -651,8 +651,8 @@
             ]
         },
         {
-            "name": "Orbital v1",
-            "description": "",
+            "name": "Orbital",
+            "description": "Just like a door.",
             "url": "wallpapers/custom/orbitalv1.tendies",
             "preview": "previews/custom/gifs/orbitalv1.gif",
             "preview_device": 1,
@@ -665,7 +665,7 @@
         },
         {
             "name": "Ubuntu",
-            "description": "",
+            "description": "Linux..?",
             "url": "wallpapers/custom/ubuntu.tendies",
             "preview": "previews/custom/gifs/ubuntu.gif",
             "preview_device": 1,
@@ -678,7 +678,7 @@
         },
         {
             "name": "Wii boot/home",
-            "description": "",
+            "description": "*Wii Menu SFX*",
             "url": "wallpapers/custom/wiiFIX.tendies",
             "preview": "previews/custom/gifs/wiiFIX.gif",
             "preview_device": 1,
@@ -691,7 +691,7 @@
         },
         {
             "name": "Windows 11",
-            "description": "",
+            "description": "Windows Phones are back??",
             "url": "wallpapers/custom/windows11.tendies",
             "preview": "previews/custom/gifs/windows11.gif",
             "preview_device": 1,
@@ -930,20 +930,20 @@
     ],
     "template": [
         {
-          "name": "LavaLamp",
-          "description": "Customizable mesh gradient wallpaper that uses your images!",
-          "url": "wallpapers/template/LavaLamp V1.1.batter",
-          "preview": "previews/template/gifs/lavalamp.gif",
-          "preview_device": 1,
-          "authors": "@dularkian on GitHub"
+            "name": "LavaLamp",
+            "description": "Customizable mesh gradient wallpaper that uses your images!",
+            "url": "wallpapers/template/LavaLamp V1.1.batter",
+            "preview": "previews/template/gifs/lavalamp.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub"
         },
         {
-          "name": "Spatial",
-          "description": "Customizable progressive blur wallpaper, like Apple Invites/Music! (2 variants included)",
-          "url": "wallpapers/template/Spatial V2.6.batter",
-          "preview": "previews/template/gifs/spatial.gif",
-          "preview_device": 1,
-          "authors": "@dularkian on GitHub"
+            "name": "Spatial",
+            "description": "Customizable progressive blur wallpaper, like Apple Invites/Music! (2 variants included)",
+            "url": "wallpapers/template/Spatial V2.6.batter",
+            "preview": "previews/template/gifs/spatial.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub"
         }
     ]
 }
