@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/schema.json",
-    "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/dev/",
+    "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/",
     "custom": [
         {
             "name": "Wii Homebrew Channel",
@@ -83,10 +83,6 @@
                 "animated",
                 "addsToGallery",
                 "iPhone"
-            ],
-            "winner": [
-                true,
-                1
             ]
         },
         {
@@ -101,10 +97,6 @@
                 "addsToGallery",
                 "iPhone",
                 "iPad"
-            ],
-            "winner": [
-                true,
-                2
             ]
         },
         {
@@ -119,10 +111,6 @@
                 "addsToGallery",
                 "iPhone",
                 "iPad"
-            ],
-            "winner": [
-                true,
-                3
             ]
         },
         {
