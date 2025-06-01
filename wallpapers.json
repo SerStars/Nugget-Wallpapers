@@ -707,7 +707,7 @@
         {
             "name": "Dragon Ball",
             "description": "A Wallpaper based on Dragonball",
-            "url": "wallpapers/custom/DragonBall.tendies",
+            "url": "wallpapers/custom/Dragonball.tendies",
             "preview": "previews/custom/gifs/Dragonball.gif",
             "preview_device": 1,
             "authors": "@thefelix324",
@@ -919,6 +919,45 @@
             "preview": "previews/custom/gifs/ScreenRecording_04-17-2025_18-55-26_1.gif",
             "preview_device": 1,
             "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Kendrick Lamar: Damn.",
+            "description": "DAMN. Kendrick cooked on this one.",
+            "url": "wallpapers/custom/DamnByTrinityHades.tendies",
+            "preview": "previews/custom/gifs/DamnByTrinityHades.gif",
+            "preview_device": 1,
+            "authors": "trinityhades",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Lumon Run v2",
+            "description": "Your outie is scared.",
+            "url": "wallpapers/custom/LumonRunv2TrinityHades.tendies",
+            "preview": "previews/custom/gifs/LumonRunv2Video.gif",
+            "preview_device": 1,
+            "authors": "trinityhades",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Macrodata Refinement",
+            "description": "Find the scary numbers.",
+            "url": "wallpapers/custom/RefiningWithDoors.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_05-03-2025_15-48-23_1.gif",
+            "preview_device": 1,
+            "authors": "trinityhades",
             "tags": [
                 "iPhone",
                 "animated",
