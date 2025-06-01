@@ -58,6 +58,138 @@
             ]
         },
         {
+            "name": "Playboi Carti - Die Lit",
+            "description": "Animated album art from Playboi Carti's 2018 album Die Lit",
+            "url": "wallpapers/custom/PlayboiCarti-DieLit.tendies",
+            "preview": "previews/custom/gifs/PlayboiCarti-DieLit.gif",
+            "preview_device": 1,
+            "authors": "@tankhalfempty.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 4 Teddie",
+            "description": "Teddie!",
+            "url": "wallpapers/custom/TeddieP4Golden.tendies",
+            "preview": "previews/custom/gifs/TeddieP4Golden.gif",
+            "preview_device": 1,
+            "authors": "@aaqil.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Dean Blunt - Zushi",
+            "description": "Dragon",
+            "url": "wallpapers/custom/DeanBluntZushi.tendies",
+            "preview": "previews/custom/gifs/DeanBluntZushi.gif",
+            "preview_device": 1,
+            "authors": "@ok.komo",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 3 FeMC",
+            "description": "Persona 3 FeMC menu wallpaper",
+            "url": "wallpapers/custom/P3FEMCTheme.tendies",
+            "preview": "previews/custom/gifs/P3FEMCTheme.gif",
+            "preview_device": 1,
+            "authors": "Ty and Co.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 5 Royal",
+            "description": "Persona 5 Royal menu wallpaper",
+            "url": "wallpapers/custom/P5RTheme.tendies",
+            "preview": "previews/custom/gifs/P5RTheme.gif",
+            "preview_device": 1,
+            "authors": "Ty and Co.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Cubes!",
+            "description": "Moving cubes!",
+            "url": "wallpapers/custom/Cubes.tendies",
+            "preview": "previews/custom/gifs/Cubes.gif",
+            "preview_device": 1,
+            "authors": "@ok.komo",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "AltStore",
+            "description": "Yeah... AltStore.",
+            "url": "wallpapers/custom/AltStore.tendies",
+            "preview": "previews/custom/gifs/AltStore.gif",
+            "preview_device": 1,
+            "authors": "@ok.komo",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Event Horizon",
+            "description": "Just look how beautiful it is.",
+            "url": "wallpapers/custom/EventHorizon.tendies",
+            "preview": "previews/custom/gifs/EventHorizon.gif",
+            "preview_device": 1,
+            "authors": "@stpotato",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Lofi",
+            "description": "Just relax...",
+            "url": "wallpapers/custom/Lofi.tendies",
+            "preview": "previews/custom/gifs/Lofi.gif",
+            "preview_device": 1,
+            "authors": "@mightycooldude12",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Mario Gamer",
+            "description": "Gamer Mario",
+            "url": "wallpapers/custom/MarioGamer.tendies",
+            "preview": "previews/custom/gifs/MarioGamer.gif",
+            "preview_device": 1,
+            "authors": "@ip1.1.1.1",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "HarmonyOS Emoji",
+            "description": "Inspired by the Emoji wallpaper on HarmonyOS",
+            "url": "wallpapers/custom/HarmonyOSEmoji.tendies",
+            "preview": "previews/custom/gifs/HarmonyOSEmoji.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
             "name": "Persona 3 Reload (pause menu)",
             "description": "Your phone is now a game.",
             "url": "wallpapers/custom/Persona3.tendies",
