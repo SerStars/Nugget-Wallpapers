@@ -963,6 +963,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "FrutigerAeroV1",
+            "description": "A Wallpaper based on the Frutiger Areo Style",
+            "url": "wallpapers/custom/FrutigerAeroV1.tendies",
+            "preview": "previews/custom/gifs/FrutigerAeroV1.gif",
+            "preview_device": 1,
+            "authors": "Preview Video from @suna.ez, The Graduation wallpaper by @rownie and @mars was used as a basis",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
