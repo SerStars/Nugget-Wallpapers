@@ -4,51 +4,51 @@
         "faq": [
             {
                 "question": "Is my device supported on the newest Nugget version?",
-                "answer": "***Yes.***\nTo find out what features are supported, go to [Nugget Helper](https://squair.is-a.dev/nugget-docs).\nNow __PLEASE__ stop asking. It's annoying to respond with the same thing every time."
+                "answer": "****Yes.****\nTo find out what features are supported, go to [Nugget Helper](https://squair.is-a.dev/nugget-docs).\nNow __PLEASE__ stop asking. It's annoying to respond with the same thing every time."
             },
             {
                 "question": "How do I install Nugget?",
-                "answer": "***Go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs).***\nThe [Nugget Helper](https://squair.is-a.dev/nugget-docs) will tell you how to set up Nugget on Windows, or MacOS."
+                "answer": "****Go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs).****\nThe [Nugget Helper](https://squair.is-a.dev/nugget-docs) will tell you how to set up Nugget on Windows, or MacOS."
             },
             {
                 "question": "Is Nugget a virus?",
-                "answer": "***No.***\nNugget is not a virus, as long as you're using the [official Nugget GitHub](https://github.com/LeminLimez/Nugget/releases) or the [website](https://cowabun.ga).\nSome older versions of Nugget may trigger a antivirus screen on Windows, but the Nugget developers and I assure you that this will not harm your computer in any way."
+                "answer": "****No.****\nNugget is not a virus, as long as you're using the [official Nugget GitHub](https://github.com/LeminLimez/Nugget/releases) or the [website](https://cowabun.ga).\nSome older versions of Nugget may trigger a antivirus screen on Windows, but the Nugget developers and I assure you that this will not harm your computer in any way."
             },
             {
                 "question": "Is mobilegestalt supported on my iOS version?",
-                "answer": "***Maybe.***\nIf you're on iOS/iPadOS 18.2 Developer Beta 2 or under, yes.\n__**There will never be support for newer versions above 18.2 Developer Beta 2. Stop asking.**__"
+                "answer": "****Maybe.****\nIf you're on iOS/iPadOS 18.2 Developer Beta 2 or under, yes.\n__**There will never be support for newer versions above 18.2 Developer Beta 2. Stop asking.**__"
             },
             {
                 "question": "Where can I find wallpapers?",
-                "answer": "***PosterRestore***\nCommunity made wallpapers (.tendies) can be found in the [PosterRestore](https://discord.com/invite/gWtzTVhMvh) Discord server, or [cowabun.ga/wallpapers](https://cowabun.ga/wallpapers)."
+                "answer": "****PosterRestore****\nCommunity made wallpapers (.tendies) can be found in the [PosterRestore](https://discord.com/invite/gWtzTVhMvh) Discord server, or [cowabun.ga/wallpapers](https://cowabun.ga/wallpapers)."
             },
             {
                 "question": "How do I create a .tendies file (custom wallpaper)?",
-                "answer": "***Mica editor.***\nIf you're on MacOS, you can use the Mica editor. To get started, join [PosterRestore](https://discord.com/invite/gWtzTVhMvh) and request support on how to do this (note; it is complicated if you're not good with computers).\nThere currently is no way to do it on Windows, but [OpenPoster](https://github.com/openposter/OpenPoster) is in development for Windows and MacOS."
+                "answer": "****Mica editor.****\nIf you're on MacOS, you can use the Mica editor. To get started, join [PosterRestore](https://discord.com/invite/gWtzTVhMvh) and request support on how to do this (note; it is complicated if you're not good with computers).\nThere currently is no way to do it on Windows, but [OpenPoster](https://github.com/openposter/OpenPoster) is in development for Windows and MacOS."
             },
             {
                 "question": "Will 18.2+ have mobilegestalt support in the future?",
-                "answer": "***NO!!***\nPLEASE. I BEG. STOP ASKING THIS QUESTION.\nVersions of iOS/iPadOS 18.2 Developer Beta 3 and up will __**NEVER HAVE SUPPORT**__."
+                "answer": "****NO!!****\nPLEASE. I BEG. STOP ASKING THIS QUESTION.\nVersions of iOS/iPadOS 18.2 Developer Beta 3 and up will __**NEVER HAVE SUPPORT**__."
             },
             {
                 "question": "I can't click on Screen Time in settings.",
-                "answer": "***You disabled it in Daemons.***\nIf you disable ScreenTime Agent in Nugget, you won't be able to click it in settings. To re-enable it, go into nugget > Daemons > Uncheck \"Disable ScreenTime Agent\".\nThen, go to apply > Reset Tweaks. Click \"Apply\"."
+                "answer": "****You disabled it in Daemons.****\nIf you disable ScreenTime Agent in Nugget, you won't be able to click it in settings. To re-enable it, go into nugget > Daemons > Uncheck \"Disable ScreenTime Agent\".\nThen, go to apply > Reset Tweaks. Click \"Apply\"."
             },
             {
                 "question": "What are ALL the Nugget features?",
-                "answer": "***Visit the Nugget GitHub page.***\n[Go to the Nugget GitHub](https://github.com/leminlimez/Nugget#Features)"
+                "answer": "****Visit the Nugget GitHub page.****\n[Go to the Nugget GitHub](https://github.com/leminlimez/Nugget#Features)"
             },
             {
                 "question": "My wallpapers are duplicating.",
-                "answer": "***Clear Collections.***\nGo to Nugget > Posterboard > Clear Collections. Add your wallpapers, and apply.\nIf this still does not work, try changing your device language (example; English (US) > English (UK)) and then change it back to the original language."
+                "answer": "****Clear Collections.****\nGo to Nugget > Posterboard > Clear Collections. Add your wallpapers, and apply.\nIf this still does not work, try changing your device language (example; English (US) > English (UK)) and then change it back to the original language."
             },
             {
                 "question": "My Collections section is gone.",
-                "answer": "***Clear Collections (again).***\nGo to Nugget > Posterboard > Clear Collections.\nIf this still does not work, try changing your device language (example; English (US) > English (UK)) and then change it back to the original language."
+                "answer": "****Clear Collections (again).****\nGo to Nugget > Posterboard > Clear Collections.\nIf this still does not work, try changing your device language (example; English (US) > English (UK)) and then change it back to the original language."
             },
             {
                 "question": "Nugget says \"Partially supported.\".",
-                "answer": "***You cannot have mobilegestalt tweaks.***\nYou cannot enable mobilegestalt tweaks like Apple Intelligence, Always on Display, or Dynamic Island.\nThough, you can still enable tweaks like Posterboard, Daemons, and Springboard options.\nFor more info, go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
+                "answer": "****You cannot have mobilegestalt tweaks.****\nYou cannot enable mobilegestalt tweaks like Apple Intelligence, Always on Display, or Dynamic Island.\nThough, you can still enable tweaks like Posterboard, Daemons, and Springboard options.\nFor more info, go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
             }
         ]
     },
