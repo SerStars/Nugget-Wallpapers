@@ -1015,6 +1015,32 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Niko OneShot",
+            "description": "Clean animation of Niko from OneShot!",
+            "url": "wallpapers/custom/niko.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_07-16-2025_16-44-49_1.gif",
+            "preview_device": 1,
+            "authors": "squair.cs",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "DVD Screensaver",
+            "description": "It hits the corner!",
+            "url": "wallpapers/custom/DVDcolor.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_07-14-2025_22-38-01_1_1.gif",
+            "preview_device": 1,
+            "authors": "@mightycooldude12 on disc",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
