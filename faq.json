@@ -4,15 +4,19 @@
         "faq": [
             {
                 "question": "Is my device supported on the newest Nugget version?",
-                "answer": "****Yes.****\nTo find out what features are supported, go to [Nugget Helper](https://squair.is-a.dev/nugget-docs).\nNow __PLEASE__ stop asking. It's annoying to respond with the same thing every time."
+                "answer": "****Yes.****\nTo find out what features are supported, go to the [Nugget Helper](https://squair.xyz/nuggethelper).\nNow __PLEASE__ stop asking. It's annoying to respond with the same thing every time."
             },
             {
                 "question": "How do I install Nugget?",
-                "answer": "****Go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs).****\nThe [Nugget Helper](https://squair.is-a.dev/nugget-docs) will tell you how to set up Nugget on Windows, or MacOS."
+                "answer": "****Go to the [Nugget Helper](https://squair.xyz/nuggethelper).****\nThe [Nugget Helper](https://squair.xyz/nuggethelper) will tell you how to set up Nugget on Windows, or MacOS."
             },
             {
                 "question": "Is Nugget a virus?",
-                "answer": "****No.****\nNugget is not a virus, as long as you're using the [official Nugget GitHub](https://github.com/LeminLimez/Nugget/releases) or the [website](https://cowabun.ga).\nSome older versions of Nugget may trigger a antivirus screen on Windows, but the Nugget developers and I assure you that this will not harm your computer in any way."
+                "answer": "****No.****\nNugget is not a virus, as long as you're using the [official Nugget GitHub](https://github.com/LeminLimez/Nugget/releases) or the [website](https://cowabun.ga).\nSome older versions of Nugget may trigger a antivirus screen on Windows, but the devs assure you that this will not harm your computer in any way."
+            },
+            {
+                "question": "Will Nugget brick my phone?",
+                "answer": "****No.****\nNugget will not brick your device as long as you follow all the steps correctly. To save yourself from bricks/bootloops, always make backups before you use Nugget."
             },
             {
                 "question": "Is mobilegestalt supported on my iOS version?",
@@ -24,7 +28,7 @@
             },
             {
                 "question": "How do I create a .tendies file (custom wallpaper)?",
-                "answer": "****Mica editor.****\nIf you're on MacOS, you can use the Mica editor. To get started, join [PosterRestore](https://discord.com/invite/gWtzTVhMvh) and request support on how to do this (note; it is complicated if you're not good with computers).\nThere currently is no way to do it on Windows, but [OpenPoster](https://github.com/openposter/OpenPoster) is in development for Windows and MacOS."
+                "answer": "****Mica.****\nIf you're on MacOS, you can use the Mica. To get started, join [PosterRestore](https://discord.com/invite/gWtzTVhMvh) and look in the Designer Insight forum (it is complicated for beginners).\n[OpenPoster](https://openposter.github.io) is in development for Windows and MacOS."
             },
             {
                 "question": "Will 18.2+ have mobilegestalt support in the future?",
@@ -48,11 +52,11 @@
             },
             {
                 "question": "Nugget says \"Partially supported.\".",
-                "answer": "****You cannot have mobilegestalt tweaks.****\nYou cannot enable mobilegestalt tweaks like Apple Intelligence, Always on Display, or Dynamic Island.\nThough, you can still enable tweaks like Posterboard, Daemons, and Springboard options.\nFor more info, go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
+                "answer": "****You cannot have mobilegestalt tweaks.****\nYou cannot enable mobilegestalt tweaks like Apple Intelligence, Always on Display, or Dynamic Island.\nThough, you can still enable tweaks like Posterboard, Daemons, and Springboard options.\nFor more info, go to the [Nugget Helper](https://squair.xyz/nuggethelper)."
             },
             {
                 "question": "ConnectionTerminatedError() or ConnectionAbortedError()",
-                "answer": "****Your device failed to connect.\n🪟 Windows: Make sure you have [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k) (or iTunes if [Apple Devices](https://support.apple.com/en-us/106372) does not work) open, and your device is showing. Go back into Nugget, and refresh the device list.\n🍎 MacOS: open Finder, and make sure you see your device listed on the side, above Tags. Go back to nugget, and refresh the device list.\n\nMake sure you are using the port on the back of your pc (if applicable), and you are using a cable that is able to transfer data."
+                "answer": "****Your device failed to connect.\nWindows: Make sure you have [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k) (or iTunes if [Apple Devices](https://support.apple.com/en-us/106372) does not work) open, and your device is showing. Go back into Nugget, and refresh the device list.\nMacOS: open Finder, and make sure you see your device listed on the side, above Tags. Go back to nugget, and refresh the device list.\n\nMake sure you are using the port on the back of your pc (if applicable), and you are using a cable that is able to transfer data."
             },
             {
                 "question": "\"Your device is managed and MDM backup encryption is on.\"",
@@ -60,11 +64,14 @@
             },
             {
                 "question": "No URL Specified.",
-                "answer": "****Your iOS/iPadOS version is unsupported.****\nOnly versions of iOS/iPadOS 18.2 Developer Beta 2 and under support mobilegestalt. See [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
+                "answer": "****Your iOS/iPadOS version is unsupported.****\nOnly versions of iOS/iPadOS 18.2 Developer Beta 2 and under support mobilegestalt. See [Nugget Helper](https://squair.xyz/nuggethelper)."
             },
             {
-                "question": "Nugget.exe is not opening.",
-                "answer": "****You opened it incorrectly.****\nType 'win+r' and in the newly opened window, type 'cmd' and press enter. Drag 'Nugget.exe' into command prompt, and press enter.\nWait a few seconds before Nugget opens. Don't close command prompt. See [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
+                "question": "Nugget.exe is not opening on Windows.",
+                "answer": "****You opened it incorrectly.****\nType 'win+r' and in the newly opened window, type 'cmd' and press enter. Drag 'Nugget.exe' into command prompt, and press enter.\nWait a few seconds before Nugget opens. Don't close command prompt. See [Nugget Helper](https://squair.xyz/nuggethelper)."
+            },{
+                "question": "Nugget.exe is not opening on MacOS.",
+                "answer": "****Use the lastest build.****\nDownload the [latest release of Nugget](https://github.com/leminlimez/Nugget/releases/latest)."
             },
             {
                 "question": "\"Failed to get device list...\"",
@@ -84,11 +91,11 @@
             },
             {
                 "question": "Wallpapers not appearing.",
-                "answer": "****Applying error.****\nOpen Nugget, and go to the Posterboard tab. Next, click \"Clear Collections\", and then go to the Apply tab, and apply.\nIf your wallpapers don't show in the \"Collections\" tab within 1-7 minutes, try applying a different wallpaper."
+                "answer": "****Applying error.****\nOpen Nugget, and go to the Posterboard tab. Next, click \"Clear Options\" then \"Clear Collections\". Next, go to the Apply tab, and apply.\nIf your wallpapers don't show in the \"Collections\" tab within 1-7 minutes, try applying a different wallpaper."
             },
             {
                 "question": "FileNotFoundError(2, 'No such file or directory')",
-                "answer": "****Re-download Nugget.****\nGo to the [latest Nugget release](https://github.com/leminlimez/Nugget/releases/latest) on GitHub, and re-download it."
+                "answer": "****Re-download Nugget.****\nGo to the [latest release of Nugget](https://github.com/leminlimez/Nugget/releases/latest) on GitHub, and re-download it.\nIf you're using a batter file, your file is most likley misconfigured."
             }
         ]
     },
@@ -96,12 +103,20 @@
         "icon": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
         "faq": [
             {
+                "question": "How do I install Pocket Poster?",
+                "answer": "The guide can be found [here.](https://squair.xyz/pocketposter)"
+            },
+            {
                 "question": "'The file \".Trash\" coulnd't be saved...'",
                 "answer": "There's muiltiple things that can cause this error. Such as a incorrect App Hash, error with PosterBoard, or an invalid `.tendies` file.\n\nA very common issue is that you may have cleared collections inside of Nugget. To fix this, go to `Settings > Language & Region` and click \"Add Language...\". Chose another language. Then, switch back to your preferred language.\n\nMake sure your app hash matches the one that you received from running the \"Pocket Poster Helper\" button in Nugget's settings.\n\nIf this is an error with PosterBoard, use the fallback shortcut by going to Pocket Poster's settings, and clicking \"Download Fallback Shortcut\". Run it, and try applying again.\n\nIf these fixes still don't work for you, check your `.tendies` file. It could be misconfigured. Try using it on your pc, or contacting the creator."
             },
             {
                 "question": "Where can I find wallpapers?",
                 "answer": "You can find wallpapers at [cowabun.ga/wallpapers](https://cowabun.ga/wallpapers) or in the [PosterRestore Discord server](https://discord.com/invite/gWtzTVhMvh)."
+            },
+            {
+                "question": "'Your app hash is incorrect. Please set it again.'",
+                "answer": "Make sure you're using the latest version of Pocket Poster and Nugget. Detect your App Hash again.\n\nIf this doesn't work, copy and paste your app hash into the notes app. you'll most likley see 2 seperate strings, for example:\nXXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX\nXXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX\nDelete the second line of characters from your app hash. Only keeping the first line of your app hash, apply again."
             }
         ]
     }
