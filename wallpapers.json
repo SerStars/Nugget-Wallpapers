@@ -1041,6 +1041,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Flappy Bird",
+            "description": "A simple flappy bird game!",
+            "url": "wallpapers/custom/FlappyBird.tendies",
+            "preview": "previews/custom/gifs/FlappyBird.gif",
+            "preview_device": 1,
+            "authors": "@squair.cs",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
