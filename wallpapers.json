@@ -1054,6 +1054,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Deltarune Prophecy room",
+            "description": "one of the cooler backgrounds from Deltarune",
+            "url": "wallpapers/custom/deltarune.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_08-04-2025_20-16-24_1.gif",
+            "preview_device": 1,
+            "authors": "@mightycooldude on disc",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
