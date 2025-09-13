@@ -161,5 +161,19 @@
       "url": "wallpapers/default/iPhone 16 Pro.tendies",
       "preview": "previews/default/images/iPhone16Pro.png",
       "preview_device": 2
+  },
+  {
+      "name": "iPhone 17 Pro",
+      "description": "Requires iOS 26 RC or newer",
+      "url": "wallpapers/default/iPhone 17 Pro.tendies",
+      "preview": "previews/default/images/iPhone17Pro.png",
+      "preview_device": 2
+  },
+  {
+      "name": "iPhone Air",
+      "description": "15 Pro or newer required, as well as iOS 26 RC",
+      "url": "wallpapers/default/iPhone Air.tendies",
+      "preview": "previews/default/images/iPhoneAir.png",
+      "preview_device": 2
   }
 ]
