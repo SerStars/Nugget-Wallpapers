@@ -60,7 +60,7 @@
         "url": "wallpapers/custom/FlappyBird.tendies",
         "preview": "previews/custom/gifs/FlappyBird.gif",
         "preview_device": 1,
-        "authors": "@squair.cs",
+        "authors": "@squair.dev",
         "tags": [
             "iPhone",
             "animated",
@@ -1032,7 +1032,7 @@
         "url": "wallpapers/custom/niko.tendies",
         "preview": "previews/custom/gifs/niko.gif",
         "preview_device": 1,
-        "authors": "squair.cs",
+        "authors": "@squair.dev",
         "tags": [
             "iPhone",
             "animated",
@@ -1046,6 +1046,45 @@
         "preview": "previews/custom/gifs/DVDcolor.gif",
         "preview_device": 1,
         "authors": "@mightycooldude12 on disc",
+        "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
+    },
+    {
+        "name": "Solar System",
+        "description": "Sun, earth, and moon.",
+        "url": "wallpapers/custom/SolarSystem.tendies",
+        "preview": "previews/custom/gifs/ScreenRecording_06-09-2025_20-03-05_1.gif",
+        "preview_device": 1,
+        "authors": "@squair.dev",
+        "tags": [
+            "iPhone",
+            "addsToGallery",
+            "animated"
+        ]
+    },
+    {
+        "name": "Super Mario Bros.",
+        "description": "Play Super Mario Bros. on your lock screen!",
+        "url": "wallpapers/custom/SuperMarioBros.tendies",
+        "preview": "previews/custom/gifs/ScreenRecording_09-06-2025_19-06-44_1.gif",
+        "preview_device": 1,
+        "authors": "@squair.dev",
+        "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
+    },
+    {
+        "name": "Exploding Colors",
+        "description": "Some cool colors exploding on your screen!",
+        "url": "wallpapers/custom/ExplodingColors.tendies",
+        "preview": "previews/custom/gifs/ExplodingColors.gif",
+        "preview_device": 1,
+        "authors": "@squair.dev",
         "tags": [
             "iPhone",
             "animated",

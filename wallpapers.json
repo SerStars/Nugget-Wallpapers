@@ -63,7 +63,7 @@
         "url": "wallpapers/custom/FlappyBird.tendies",
         "preview": "previews/custom/gifs/FlappyBird.gif",
         "preview_device": 1,
-        "authors": "@squair.cs",
+        "authors": "@squair.dev",
         "tags": [
             "iPhone",
             "animated",
@@ -1035,7 +1035,7 @@
         "url": "wallpapers/custom/niko.tendies",
         "preview": "previews/custom/gifs/niko.gif",
         "preview_device": 1,
-        "authors": "squair.cs",
+        "authors": "@squair.dev",
         "tags": [
             "iPhone",
             "animated",
@@ -1049,6 +1049,19 @@
         "preview": "previews/custom/gifs/DVDcolor.gif",
         "preview_device": 1,
         "authors": "@mightycooldude12 on disc",
+        "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
+    },
+    {
+        "name": "Exploding Colors",
+        "description": "Some cool colors exploding on your screen!",
+        "url": "wallpapers/custom/ExplodingColors.tendies",
+        "preview": "previews/custom/gifs/ExplodingColors.gif",
+        "preview_device": 1,
+        "authors": "@squair.dev",
         "tags": [
             "iPhone",
             "animated",
