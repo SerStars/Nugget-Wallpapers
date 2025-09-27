@@ -1106,6 +1106,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Flappy Bird V2",
+            "description": "Now with gyro! (iOS 26RC+)",
+            "url": "wallpapers/custom/FlappyBirdV2.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_09-27-2025_17-58-44_1.gif",
+            "preview_device": 1,
+            "authors": "squair.dev",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
