@@ -2,1289 +2,1301 @@
     "$schema": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/schema.json",
     "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/",
     "custom": [
-    {
-        "name": "Black Hole",
-        "description": "Cool, beautiful, and strong.",
-        "url": "wallpapers/custom/BlackHole.tendies",
-        "preview": "previews/custom/gifs/BlackHole.gif",
-        "preview_device": 1,
-        "authors": "@i.mes",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ],
-        "winner": [
-            true,
-            1
-        ]
-    },
-    {
-        "name": "Cat Volleyball",
-        "description": "Hapi Hapi Hapi",
-        "url": "wallpapers/custom/catvolleyball-lite.tendies",
-        "preview": "previews/custom/gifs/catvolleyball-lite.gif",
-        "preview_device": 2,
-        "authors": "@c4ndyf1sh",
-        "tags": [
-            "iPhone",
-            "iPad",
-            "animated",
-            "addsToGallery",
-            "appearanceAware"
-        ],
-        "winner": [
-            true,
-            2
-        ]
-    },
-    {
-        "name": "Animal Crossing Seasons",
-        "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!",
-        "url": "wallpapers/custom/AnimalCrossingSeasons.tendies",
-        "preview": "previews/custom/gifs/AnimalCrossingSeasons.gif",
-        "preview_device": 1,
-        "authors": "@dootskyre",
-        "tags": [
-            "iPhone",
-            "appearanceAware",
-            "addsToGallery",
-            "animated",
-            "bundle"
-        ],
-        "winner": [
-            true,
-            3
-        ]
-    },
-    {
-        "name": "Flappy Bird",
-        "description": "A simple flappy bird game!",
-        "url": "wallpapers/custom/FlappyBird.tendies",
-        "preview": "previews/custom/gifs/FlappyBird.gif",
-        "preview_device": 1,
-        "authors": "@squair.dev",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "FrutigerAeroV1",
-        "description": "A Wallpaper based on the Frutiger Areo Style",
-        "url": "wallpapers/custom/FrutigerAeroV1.tendies",
-        "preview": "previews/custom/gifs/FrutigerAeroV1.gif",
-        "preview_device": 1,
-        "authors": "@devwithoutcod1ng",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Playboi Carti - Die Lit",
-        "description": "Animated album art from Playboi Carti's 2018 album Die Lit",
-        "url": "wallpapers/custom/PlayboiCarti-DieLit.tendies",
-        "preview": "previews/custom/gifs/PlayboiCarti-DieLit.gif",
-        "preview_device": 1,
-        "authors": "@tankhalfempty.",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Persona 4 Teddie",
-        "description": "Teddie!",
-        "url": "wallpapers/custom/TeddieP4Golden.tendies",
-        "preview": "previews/custom/gifs/TeddieP4Golden.gif",
-        "preview_device": 1,
-        "authors": "@aaqil.",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Dean Blunt - Zushi",
-        "description": "Dragon",
-        "url": "wallpapers/custom/DeanBluntZushi.tendies",
-        "preview": "previews/custom/gifs/DeanBluntZushi.gif",
-        "preview_device": 1,
-        "authors": "@ok.komo",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Persona 3 FeMC",
-        "description": "Persona 3 FeMC menu wallpaper",
-        "url": "wallpapers/custom/P3FEMCTheme.tendies",
-        "preview": "previews/custom/gifs/P3FEMCTheme.gif",
-        "preview_device": 1,
-        "authors": "Ty and Co.",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Persona 5 Royal",
-        "description": "Persona 5 Royal menu wallpaper",
-        "url": "wallpapers/custom/P5RTheme.tendies",
-        "preview": "previews/custom/gifs/P5RTheme.gif",
-        "preview_device": 1,
-        "authors": "Ty and Co.",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Cubes!",
-        "description": "Moving cubes!",
-        "url": "wallpapers/custom/Cubes.tendies",
-        "preview": "previews/custom/gifs/Cubes.gif",
-        "preview_device": 1,
-        "authors": "@ok.komo",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "AltStore",
-        "description": "Yeah... AltStore.",
-        "url": "wallpapers/custom/AltStore.tendies",
-        "preview": "previews/custom/gifs/AltStore.gif",
-        "preview_device": 1,
-        "authors": "@ok.komo",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Event Horizon",
-        "description": "Just look how beautiful it is.",
-        "url": "wallpapers/custom/EventHorizon.tendies",
-        "preview": "previews/custom/gifs/EventHorizon.gif",
-        "preview_device": 1,
-        "authors": "@stpotato",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Lofi",
-        "description": "Just relax...",
-        "url": "wallpapers/custom/Lofi.tendies",
-        "preview": "previews/custom/gifs/Lofi.gif",
-        "preview_device": 1,
-        "authors": "@mightycooldude12",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Mario Gamer",
-        "description": "Gamer Mario",
-        "url": "wallpapers/custom/MarioGamer.tendies",
-        "preview": "previews/custom/gifs/MarioGamer.gif",
-        "preview_device": 1,
-        "authors": "@ip1.1.1.1",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "HarmonyOS Emoji",
-        "description": "Inspired by the Emoji wallpaper on HarmonyOS",
-        "url": "wallpapers/custom/HarmonyOSEmoji.tendies",
-        "preview": "previews/custom/gifs/HarmonyOSEmoji.gif",
-        "preview_device": 1,
-        "authors": "@yangjiii",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Persona 3 Reload (pause menu)",
-        "description": "Your phone is now a game.",
-        "url": "wallpapers/custom/Persona3.tendies",
-        "preview": "previews/custom/gifs/Persona3.gif",
-        "preview_device": 1,
-        "authors": "@bebebole",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Wii Homebrew Channel",
-        "description": "The Wii Homebrew Channel banner as your wallpaper!",
-        "url": "wallpapers/custom/HomebrewChannel.tendies",
-        "preview": "previews/custom/gifs/HomebrewChannel.gif",
-        "preview_device": 1,
-        "authors": "@dootskyre",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Wii Homebrew Channel Red",
-        "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
-        "url": "wallpapers/custom/HomebrewChannelRed.tendies",
-        "preview": "previews/custom/gifs/HomebrewChannelRed.gif",
-        "preview_device": 1,
-        "authors": "@dootskyre",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "WiiBeer",
-        "description": "A color swap reminiscent of the old iBeer app! Look who wants to drink me!",
-        "url": "wallpapers/custom/WiiBeer.tendies",
-        "preview": "previews/custom/gifs/WiiBeer.gif",
-        "preview_device": 1,
-        "authors": "@dootskyre",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Space",
-        "description": "The Space!",
-        "url": "wallpapers/custom/Space.tendies",
-        "preview": "previews/custom/gifs/Space.gif",
-        "preview_device": 1,
-        "authors": "@_systemless",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "Among Us",
-        "description": "The Space! Wait, what's that?",
-        "url": "wallpapers/custom/Amogus.tendies",
-        "preview": "previews/custom/gifs/Amogus.gif",
-        "preview_device": 1,
-        "authors": "@LeminLimez",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "iOS 6 Revamp",
-        "description": "Pretend like your phone is on iOS 6 again!",
-        "url": "wallpapers/custom/iOS6Revamp.tendies",
-        "preview": "previews/custom/gifs/iOS6Revamp.gif",
-        "preview_device": 1,
-        "authors": "@dularkian on GitHub",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Minecraft Panorama",
-        "description": "A scrolling panorama from Minecraft as your wallpaper!",
-        "url": "wallpapers/custom/MCPanorama.tendies",
-        "preview": "previews/custom/gifs/MCPanorama.gif",
-        "preview_device": 2,
-        "authors": "@pengubow",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "Sakura Tree",
-        "description": "A beautiful Sakura tree with leaves falling!",
-        "url": "wallpapers/custom/Sakura.tendies",
-        "preview": "previews/custom/gifs/Sakura.gif",
-        "preview_device": 1,
-        "authors": "@jam_minty",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "Splatoon",
-        "description": "A wallpaper based on Splatoon featuring Callie and Marie!",
-        "url": "wallpapers/custom/Splatoon-SquidSisters.tendies",
-        "preview": "previews/custom/gifs/Splatoon.gif",
-        "preview_device": 1,
-        "authors": "@dularkian on GitHub",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Mario Galaxy",
-        "description": "A wallpaper based on Super Mario Galaxy!",
-        "url": "wallpapers/custom/MarioGalaxy.tendies",
-        "preview": "previews/custom/gifs/galaxy.gif",
-        "preview_device": 1,
-        "authors": "@dootskyre",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "MarioYoshi",
-        "description": "A wallpaper based on Super Mario with Yoshi!",
-        "url": "wallpapers/custom/MarioYoshi.tendies",
-        "preview": "previews/custom/gifs/MarioYoshi.gif",
-        "preview_device": 1,
-        "authors": "@jordrixx",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "Tinted Cubes",
-        "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
-        "url": "wallpapers/custom/TintedCubes.tendies",
-        "preview": "previews/custom/gifs/cubes.gif",
-        "preview_device": 1,
-        "authors": "@dootskyre",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Rainbow Sprinkles",
-        "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
-        "url": "wallpapers/custom/RainbowSprinkles.tendies",
-        "preview": "previews/custom/gifs/sprinkles.gif",
-        "preview_device": 1,
-        "authors": "@dootskyre",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "Balatro",
-        "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
-        "url": "wallpapers/custom/BalatroMenu.tendies",
-        "preview": "previews/custom/gifs/balatro.gif",
-        "preview_device": 1,
-        "authors": "@dularkian on GitHub",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Boykisser",
-        "description": "Boykisser all over your screen",
-        "url": "wallpapers/custom/boykisser.tendies",
-        "preview": "previews/custom/gifs/boykisser.gif",
-        "preview_device": 1,
-        "authors": "@ch_eese on Discord",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "iOS Backup Things Logo",
-        "description": "iOS Backup Things logo as your wallpaper!",
-        "url": "wallpapers/custom/iOSBackupThings.tendies",
-        "preview": "previews/custom/gifs/iOSBackupThings.gif",
-        "preview_device": 1,
-        "authors": "@dularkian on GitHub",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Snoopy",
-        "description": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
-        "url": "wallpapers/custom/Snoopy.tendies",
-        "preview": "previews/custom/gifs/Snoopy.gif",
-        "preview_device": 1,
-        "authors": "@daredvl",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Aqua Collection",
-        "description": "4 different Aqua themed wallpapers with an optional custom time-warp effect!",
-        "url": "wallpapers/custom/AquaCollection.tendies",
-        "preview": "previews/custom/gifs/AquaCollection.gif",
-        "preview_device": 1,
-        "authors": "@dularkian on GitHub",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "bundle",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "iPhone 15 Sea Glass Collection",
-        "description": "iOS 18 or higher required",
-        "url": "wallpapers/custom/iPhone15SeaGlass.tendies",
-        "preview": "previews/custom/images/iPhone15SeaGlass.png",
-        "preview_device": 4,
-        "authors": "@applintrnl",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "bundle",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "SpinningGear",
-        "description": "Switchboard real",
-        "url": "wallpapers/custom/SpinningGear.tendies",
-        "preview": "previews/custom/gifs/SpinningGear.gif",
-        "preview_device": 1,
-        "authors": "@applintrnl",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "15 Pro Color Collection",
-        "description": "The 15 Pro wallpaper in stunning new colors! (Does not change your 15 Pro's color)",
-        "url": "wallpapers/custom/iPhone15ProColorCollection.tendies",
-        "preview": "previews/custom/images/iPhone15ProColorCollection.png",
-        "preview_device": 4,
-        "authors": "@applintrnl",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "bundle"
-        ]
-    },
-    {
-        "name": "\ud83d\uddff",
-        "description": "Rickroll + Bad Apple as Live Photos - These will appear in Suggested Photos",
-        "url": "wallpapers/custom/RickApple.tendies",
-        "preview": "previews/custom/images/RickApple.png",
-        "preview_device": 3,
-        "authors": "@forcequitOS",
-        "tags": [
-            "addsToGallery",
-            "bundle",
-            "video",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Apple Logo",
-        "description": "An animated RGB Apple logo for your background!",
-        "url": "wallpapers/custom/AppleLogo.tendies",
-        "preview": "previews/custom/gifs/AppleLogo.gif",
-        "preview_device": 1,
-        "authors": "@jam_minty",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "iSoda",
-        "description": "A color swap reminiscent of popular sodas! Look who wants to drink me!",
-        "url": "wallpapers/custom/iSoda.tendies",
-        "preview": "previews/custom/gifs/iSoda.gif",
-        "preview_device": 1,
-        "authors": "@jam_minty",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "appearanceAware",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Nexus",
-        "description": "A remake of the android nexus wallpaper.",
-        "url": "wallpapers/custom/Nexus.tendies",
-        "preview": "previews/custom/gifs/Nexus.gif",
-        "preview_device": 1,
-        "authors": "@bebebole",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Midnight Brisa",
-        "description": "Purple and blue gradient waves.",
-        "url": "wallpapers/custom/MidnightBrisa.tendies",
-        "preview": "previews/custom/gifs/MidnightBrisa.gif",
-        "preview_device": 1,
-        "authors": "@limonetexd",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Stars",
-        "description": "Something with stars.",
-        "url": "wallpapers/custom/Stars.tendies",
-        "preview": "previews/custom/gifs/Stars.gif",
-        "preview_device": 1,
-        "authors": "@kukuruzka165",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Swelvy",
-        "description": "Assets taken from Geode SDK.",
-        "url": "wallpapers/custom/Swelvy.tendies",
-        "preview": "previews/custom/gifs/Swelvy.gif",
-        "preview_device": 1,
-        "authors": "@anhnguyenlost13",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Graduation",
-        "description": "But he made Graduation!",
-        "url": "wallpapers/custom/Graduation.tendies",
-        "preview": "previews/custom/gifs/Graduation.gif",
-        "preview_device": 1,
-        "authors": "@ROWNIE & @Mars",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Patrick on a Seahorse",
-        "description": "Patricc vibing on da seahorse",
-        "url": "wallpapers/custom/PatrickSeahorse.tendies",
-        "preview": "previews/custom/gifs/PatrickSeahorse.gif",
-        "preview_device": 1,
-        "authors": "@ellibarks",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone"
-        ]
-    },
-    {
-        "name": "Nintendo Switch",
-        "description": "You better switch up that attitude or wii are gonna have a problem.",
-        "url": "wallpapers/custom/NintendoSwitch.tendies",
-        "preview": "previews/custom/gifs/NintendoSwitch.gif",
-        "preview_device": 1,
-        "authors": "@c4ndyf1sh",
-        "tags": [
-            "animated",
-            "addsToGallery",
-            "iPhone",
-            "iPad"
-        ]
-    },
-    {
-        "name": "Flower Boy",
-        "description": "Flower Boy by Tyler, The Creator (2017)",
-        "url": "wallpapers/custom/flower_boy_v1.tendies",
-        "preview": "previews/custom/gifs/FlowerBoy.gif",
-        "preview_device": 1,
-        "authors": "@softminted_",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Purple Wave",
-        "description": "Just a purple wave",
-        "url": "wallpapers/custom/wave.tendies",
-        "preview": "previews/custom/gifs/PurpleWave.gif",
-        "preview_device": 1,
-        "authors": "@cgbakery",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Black Goku",
-        "description": "Reveal your true powers.",
-        "url": "wallpapers/custom/BlackGoku.tendies",
-        "preview": "previews/custom/gifs/BlackGoku.gif",
-        "preview_device": 1,
-        "authors": "@yangjiii",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Broken Screen",
-        "description": "YOU BROKE MY SCREEN!",
-        "url": "wallpapers/custom/BrokenScreen.tendies",
-        "preview": "previews/custom/gifs/BrokenScreen.gif",
-        "preview_device": 1,
-        "authors": "@jam_minty",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Desert",
-        "description": "In the desert",
-        "url": "wallpapers/custom/Desert.tendies",
-        "preview": "previews/custom/gifs/Desert.gif",
-        "preview_device": 1,
-        "authors": "@yangjiii",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "FatCat",
-        "description": "A Wallpaper based on a fat cat meme",
-        "url": "wallpapers/custom/FatCat.tendies",
-        "preview": "previews/custom/gifs/FatCat.gif",
-        "preview_device": 1,
-        "authors": "@thefelix32",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Dragon Ball",
-        "description": "A Wallpaper based on Dragonball",
-        "url": "wallpapers/custom/Dragonball.tendies",
-        "preview": "previews/custom/gifs/Dragonball.gif",
-        "preview_device": 1,
-        "authors": "@thefelix324",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Honor Magic V Flip",
-        "description": "Cute!",
-        "url": "wallpapers/custom/HonorMagicVFlip.tendies",
-        "preview": "previews/custom/gifs/HonorMagicVFlip.gif",
-        "preview_device": 1,
-        "authors": "@yangjiii",
-        "tags": [
-            "iPhone",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Skeleton",
-        "description": "Peace, my friend.",
-        "url": "wallpapers/custom/Skelet.tendies",
-        "preview": "previews/custom/gifs/Skelet.gif",
-        "preview_device": 1,
-        "authors": "@rezanen",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Stonks Up",
-        "description": "YES!",
-        "url": "wallpapers/custom/StonksUp.tendies",
-        "preview": "previews/custom/gifs/StonksUp.gif",
-        "preview_device": 1,
-        "authors": "@jam_minty",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Stonks Down",
-        "description": "NO!",
-        "url": "wallpapers/custom/StonksDown.tendies",
-        "preview": "previews/custom/gifs/StonksDown.gif",
-        "preview_device": 1,
-        "authors": "@jam_minty",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "I am in.",
-        "description": "$%@!",
-        "url": "wallpapers/custom/i_am_in.tendies",
-        "preview": "previews/custom/gifs/i_am_in.gif",
-        "preview_device": 1,
-        "authors": "@i.mes",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Neon Lines",
-        "description": "Based on Wallpaper Engine > Workshop > Snow's Workshop > Neon Lines | 4K on Steam",
-        "url": "wallpapers/custom/neon_lines.tendies",
-        "preview": "previews/custom/gifs/neon_lines.gif",
-        "preview_device": 1,
-        "authors": "@i.mes",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Orbital",
-        "description": "Just like a door.",
-        "url": "wallpapers/custom/orbitalv1.tendies",
-        "preview": "previews/custom/gifs/orbitalv1.gif",
-        "preview_device": 1,
-        "authors": "@luctilus",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Ubuntu",
-        "description": "Linux..?",
-        "url": "wallpapers/custom/ubuntu.tendies",
-        "preview": "previews/custom/gifs/ubuntu.gif",
-        "preview_device": 1,
-        "authors": "@mak5er",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Wii boot/home",
-        "description": "*Wii Menu SFX*",
-        "url": "wallpapers/custom/wiiFIX.tendies",
-        "preview": "previews/custom/gifs/wiiFIX.gif",
-        "preview_device": 1,
-        "authors": "@cgbakery",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Windows 11",
-        "description": "Windows Phones are back??",
-        "url": "wallpapers/custom/windows11.tendies",
-        "preview": "previews/custom/gifs/windows11.gif",
-        "preview_device": 1,
-        "authors": "@mak5er",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Sonic Mania Mirage Saloon",
-        "description": "Wallpaper of Mirage Saloon from Sonic Mania\n\nFulfilled suggestion",
-        "url": "wallpapers/custom/smania.tendies",
-        "preview": "previews/custom/gifs/SonicManiaMirageSaloon.gif",
-        "preview_device": 1,
-        "authors": "semay",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Persona 5 Menu Wallpaper",
-        "description": "Persona fans are gonna love this.",
-        "url": "wallpapers/custom/P5Theme.tendies",
-        "preview": "previews/custom/gifs/P5Theme.gif",
-        "preview_device": 1,
-        "authors": "TY and Co.",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Lil Uzi Vert vs. The World",
-        "description": "Based off of the 2016 XXL Freshman's album they made that same year!",
-        "url": "wallpapers/custom/Lil_Uzi_Vert_Vs_The_World.tendies",
-        "preview": "previews/custom/gifs/Lil_Uzi_Vert_Vs_The_World.gif",
-        "preview_device": 1,
-        "authors": "@dularkian on GitHub",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Persona 4 Wallpaper",
-        "description": "Looks better with Always On Display (i think).",
-        "url": "wallpapers/custom/P4Theme.tendies",
-        "preview": "previews/custom/gifs/P4Theme.gif",
-        "preview_device": 1,
-        "authors": "TY and Co.",
-        "tags": [
-            "iPhone",
-            "animated",
-            "replacesWallpapers",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Persona 3 Classic Wallpaper",
-        "description": "This time it\u2019s the classic UI. Not Reload.",
-        "url": "wallpapers/custom/P3ClassicTheme.tendies",
-        "preview": "previews/custom/gifs/P3ClassicTheme.gif",
-        "preview_device": 1,
-        "authors": "TY and Co.",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Sheikah Slate (Zelda BOTW)",
-        "description": "The Sheikah Slate from BOTW for your iPhone!",
-        "url": "wallpapers/custom/sheikah_slate.tendies",
-        "preview": "previews/custom/gifs/sheikah_slate.gif",
-        "preview_device": 1,
-        "authors": "Vioxel",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Sonic's Gang",
-        "description": "Sonic, Knuckles, Amy, and Tails running across your screen!",
-        "url": "wallpapers/custom/sonic_gang_sky_slow.tendies",
-        "preview": "previews/custom/gifs/sonicgang.gif",
-        "preview_device": 1,
-        "authors": "Vioxel",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Whole Lotta Red",
-        "description": "Animated Artwork from Playboi Carti's 2020 Studio Album.",
-        "url": "wallpapers/custom/wholelottared.tendies",
-        "preview": "previews/custom/gifs/wlr.gif",
-        "preview_device": 1,
-        "authors": "tankhalfempty",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Undertale Ruins Scrolling Wallpaper",
-        "description": "Ruins, now on your phone!",
-        "url": "wallpapers/custom/UndertaleRuins.tendies",
-        "preview": "previews/custom/gifs/UndertaleRuinsScrolling.gif",
-        "preview_device": 1,
-        "authors": "TY and Co.",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Kendrick Lamar: Damn.",
-        "description": "DAMN. Kendrick cooked on this one.",
-        "url": "wallpapers/custom/DamnByTrinityHades.tendies",
-        "preview": "previews/custom/gifs/DamnByTrinityHades.gif",
-        "preview_device": 1,
-        "authors": "trinityhades",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Lumon Run v2",
-        "description": "Your outie is scared.",
-        "url": "wallpapers/custom/LumonRunv2TrinityHades.tendies",
-        "preview": "previews/custom/gifs/LumonRunv2Video.gif",
-        "preview_device": 1,
-        "authors": "trinityhades",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Macrodata Refinement",
-        "description": "Find the scary numbers.",
-        "url": "wallpapers/custom/RefiningWithDoors.tendies",
-        "preview": "previews/custom/gifs/RefiningWithDoors.gif",
-        "preview_device": 1,
-        "authors": "trinityhades",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Solar System",
-        "description": "Sun, earth, and moon.",
-        "url": "wallpapers/custom/SolarSystem.tendies",
-        "preview": "previews/custom/gifs/ScreenRecording_06-09-2025_20-03-05_1.gif",
-        "preview_device": 1,
-        "authors": "@squair.dev",
-        "tags": [
-            "iPhone",
-            "addsToGallery",
-            "animated"
-        ]
-    },
-    {
-        "name": "Niko OneShot",
-        "description": "Clean animation of Niko from OneShot!",
-        "url": "wallpapers/custom/niko.tendies",
-        "preview": "previews/custom/gifs/niko.gif",
-        "preview_device": 1,
-        "authors": "@squair.dev",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "DVD Screensaver",
-        "description": "It hits the corner!",
-        "url": "wallpapers/custom/DVDcolor.tendies",
-        "preview": "previews/custom/gifs/DVDcolor.gif",
-        "preview_device": 1,
-        "authors": "@mightycooldude12 on disc",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-    {
-        "name": "Super Mario Bros.",
-        "description": "Play Super Mario Bros. on your lock screen!",
-        "url": "wallpapers/custom/SuperMarioBros.tendies",
-        "preview": "previews/custom/gifs/ScreenRecording_09-06-2025_19-06-44_1.gif",
-        "preview_device": 1,
-        "authors": "@squair.dev",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    },
-
-    {
-        "name": "Exploding Colors",
-        "description": "Some cool colors exploding on your screen!",
-        "url": "wallpapers/custom/ExplodingColors.tendies",
-        "preview": "previews/custom/gifs/ExplodingColors.gif",
-        "preview_device": 1,
-        "authors": "@squair.dev",
-        "tags": [
-            "iPhone",
-            "animated",
-            "addsToGallery"
-        ]
-    }
-],
+        {
+            "name": "Black Hole",
+            "description": "Cool, beautiful, and strong.",
+            "url": "wallpapers/custom/BlackHole.tendies",
+            "preview": "previews/custom/gifs/BlackHole.gif",
+            "preview_device": 1,
+            "authors": "@i.mes",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ],
+            "winner": [
+                true,
+                1
+            ]
+        },
+        {
+            "name": "Cat Volleyball",
+            "description": "Hapi Hapi Hapi",
+            "url": "wallpapers/custom/catvolleyball-lite.tendies",
+            "preview": "previews/custom/gifs/catvolleyball-lite.gif",
+            "preview_device": 2,
+            "authors": "@c4ndyf1sh",
+            "tags": [
+                "iPhone",
+                "iPad",
+                "animated",
+                "addsToGallery",
+                "appearanceAware"
+            ],
+            "winner": [
+                true,
+                2
+            ]
+        },
+        {
+            "name": "Animal Crossing Seasons",
+            "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 5 seasonal light/dark variants!",
+            "url": "wallpapers/custom/AnimalCrossingSeasons.tendies",
+            "preview": "previews/custom/gifs/AnimalCrossingSeasons.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "iPhone",
+                "appearanceAware",
+                "addsToGallery",
+                "animated",
+                "bundle"
+            ],
+            "winner": [
+                true,
+                3
+            ]
+        },
+        {
+            "name": "Flappy Bird",
+            "description": "A simple flappy bird game!",
+            "url": "wallpapers/custom/FlappyBird.tendies",
+            "preview": "previews/custom/gifs/FlappyBird.gif",
+            "preview_device": 1,
+            "authors": "@squair.dev",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "FrutigerAeroV1",
+            "description": "A Wallpaper based on the Frutiger Areo Style",
+            "url": "wallpapers/custom/FrutigerAeroV1.tendies",
+            "preview": "previews/custom/gifs/FrutigerAeroV1.gif",
+            "preview_device": 1,
+            "authors": "@devwithoutcod1ng",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Playboi Carti - Die Lit",
+            "description": "Animated album art from Playboi Carti's 2018 album Die Lit",
+            "url": "wallpapers/custom/PlayboiCarti-DieLit.tendies",
+            "preview": "previews/custom/gifs/PlayboiCarti-DieLit.gif",
+            "preview_device": 1,
+            "authors": "@tankhalfempty.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 4 Teddie",
+            "description": "Teddie!",
+            "url": "wallpapers/custom/TeddieP4Golden.tendies",
+            "preview": "previews/custom/gifs/TeddieP4Golden.gif",
+            "preview_device": 1,
+            "authors": "@aaqil.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Dean Blunt - Zushi",
+            "description": "Dragon",
+            "url": "wallpapers/custom/DeanBluntZushi.tendies",
+            "preview": "previews/custom/gifs/DeanBluntZushi.gif",
+            "preview_device": 1,
+            "authors": "@ok.komo",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 3 FeMC",
+            "description": "Persona 3 FeMC menu wallpaper",
+            "url": "wallpapers/custom/P3FEMCTheme.tendies",
+            "preview": "previews/custom/gifs/P3FEMCTheme.gif",
+            "preview_device": 1,
+            "authors": "Ty and Co.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 5 Royal",
+            "description": "Persona 5 Royal menu wallpaper",
+            "url": "wallpapers/custom/P5RTheme.tendies",
+            "preview": "previews/custom/gifs/P5RTheme.gif",
+            "preview_device": 1,
+            "authors": "Ty and Co.",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Cubes!",
+            "description": "Moving cubes!",
+            "url": "wallpapers/custom/Cubes.tendies",
+            "preview": "previews/custom/gifs/Cubes.gif",
+            "preview_device": 1,
+            "authors": "@ok.komo",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "AltStore",
+            "description": "Yeah... AltStore.",
+            "url": "wallpapers/custom/AltStore.tendies",
+            "preview": "previews/custom/gifs/AltStore.gif",
+            "preview_device": 1,
+            "authors": "@ok.komo",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Event Horizon",
+            "description": "Just look how beautiful it is.",
+            "url": "wallpapers/custom/EventHorizon.tendies",
+            "preview": "previews/custom/gifs/EventHorizon.gif",
+            "preview_device": 1,
+            "authors": "@stpotato",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Lofi",
+            "description": "Just relax...",
+            "url": "wallpapers/custom/Lofi.tendies",
+            "preview": "previews/custom/gifs/Lofi.gif",
+            "preview_device": 1,
+            "authors": "@mightycooldude12",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Mario Gamer",
+            "description": "Gamer Mario",
+            "url": "wallpapers/custom/MarioGamer.tendies",
+            "preview": "previews/custom/gifs/MarioGamer.gif",
+            "preview_device": 1,
+            "authors": "@ip1.1.1.1",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "HarmonyOS Emoji",
+            "description": "Inspired by the Emoji wallpaper on HarmonyOS",
+            "url": "wallpapers/custom/HarmonyOSEmoji.tendies",
+            "preview": "previews/custom/gifs/HarmonyOSEmoji.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 3 Reload (pause menu)",
+            "description": "Your phone is now a game.",
+            "url": "wallpapers/custom/Persona3.tendies",
+            "preview": "previews/custom/gifs/Persona3.gif",
+            "preview_device": 1,
+            "authors": "@bebebole",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Wii Homebrew Channel",
+            "description": "The Wii Homebrew Channel banner as your wallpaper!",
+            "url": "wallpapers/custom/HomebrewChannel.tendies",
+            "preview": "previews/custom/gifs/HomebrewChannel.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Wii Homebrew Channel Red",
+            "description": "The Wii Homebrew Channel banner but in red as your wallpaper! Look who found me!",
+            "url": "wallpapers/custom/HomebrewChannelRed.tendies",
+            "preview": "previews/custom/gifs/HomebrewChannelRed.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "WiiBeer",
+            "description": "A color swap reminiscent of the old iBeer app! Look who wants to drink me!",
+            "url": "wallpapers/custom/WiiBeer.tendies",
+            "preview": "previews/custom/gifs/WiiBeer.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Space",
+            "description": "The Space!",
+            "url": "wallpapers/custom/Space.tendies",
+            "preview": "previews/custom/gifs/Space.gif",
+            "preview_device": 1,
+            "authors": "@_systemless",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "Among Us",
+            "description": "The Space! Wait, what's that?",
+            "url": "wallpapers/custom/Amogus.tendies",
+            "preview": "previews/custom/gifs/Amogus.gif",
+            "preview_device": 1,
+            "authors": "@LeminLimez",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "iOS 6 Revamp",
+            "description": "Pretend like your phone is on iOS 6 again!",
+            "url": "wallpapers/custom/iOS6Revamp.tendies",
+            "preview": "previews/custom/gifs/iOS6Revamp.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Minecraft Panorama",
+            "description": "A scrolling panorama from Minecraft as your wallpaper!",
+            "url": "wallpapers/custom/MCPanorama.tendies",
+            "preview": "previews/custom/gifs/MCPanorama.gif",
+            "preview_device": 2,
+            "authors": "@pengubow",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "Sakura Tree",
+            "description": "A beautiful Sakura tree with leaves falling!",
+            "url": "wallpapers/custom/Sakura.tendies",
+            "preview": "previews/custom/gifs/Sakura.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "Splatoon",
+            "description": "A wallpaper based on Splatoon featuring Callie and Marie!",
+            "url": "wallpapers/custom/Splatoon-SquidSisters.tendies",
+            "preview": "previews/custom/gifs/Splatoon.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Mario Galaxy",
+            "description": "A wallpaper based on Super Mario Galaxy!",
+            "url": "wallpapers/custom/MarioGalaxy.tendies",
+            "preview": "previews/custom/gifs/galaxy.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "MarioYoshi",
+            "description": "A wallpaper based on Super Mario with Yoshi!",
+            "url": "wallpapers/custom/MarioYoshi.tendies",
+            "preview": "previews/custom/gifs/MarioYoshi.gif",
+            "preview_device": 1,
+            "authors": "@jordrixx",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "Tinted Cubes",
+            "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
+            "url": "wallpapers/custom/TintedCubes.tendies",
+            "preview": "previews/custom/gifs/cubes.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Rainbow Sprinkles",
+            "description": "Semi-based on the old pride wallpapers, rainbow sprinkles fly upwards like confetti on this wallpaper.",
+            "url": "wallpapers/custom/RainbowSprinkles.tendies",
+            "preview": "previews/custom/gifs/sprinkles.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "Balatro",
+            "description": "A wallpaper based on the background of Balatro! You can optionally pixelate the time with the Depth Effect.",
+            "url": "wallpapers/custom/BalatroMenu.tendies",
+            "preview": "previews/custom/gifs/balatro.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Boykisser",
+            "description": "Boykisser all over your screen",
+            "url": "wallpapers/custom/boykisser.tendies",
+            "preview": "previews/custom/gifs/boykisser.gif",
+            "preview_device": 1,
+            "authors": "@ch_eese on Discord",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "iOS Backup Things Logo",
+            "description": "iOS Backup Things logo as your wallpaper!",
+            "url": "wallpapers/custom/iOSBackupThings.tendies",
+            "preview": "previews/custom/gifs/iOSBackupThings.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Snoopy",
+            "description": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
+            "url": "wallpapers/custom/Snoopy.tendies",
+            "preview": "previews/custom/gifs/Snoopy.gif",
+            "preview_device": 1,
+            "authors": "@daredvl",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Aqua Collection",
+            "description": "4 different Aqua themed wallpapers with an optional custom time-warp effect!",
+            "url": "wallpapers/custom/AquaCollection.tendies",
+            "preview": "previews/custom/gifs/AquaCollection.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "bundle",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "iPhone 15 Sea Glass Collection",
+            "description": "iOS 18 or higher required",
+            "url": "wallpapers/custom/iPhone15SeaGlass.tendies",
+            "preview": "previews/custom/images/iPhone15SeaGlass.png",
+            "preview_device": 4,
+            "authors": "@applintrnl",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "bundle",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "SpinningGear",
+            "description": "Switchboard real",
+            "url": "wallpapers/custom/SpinningGear.tendies",
+            "preview": "previews/custom/gifs/SpinningGear.gif",
+            "preview_device": 1,
+            "authors": "@applintrnl",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "15 Pro Color Collection",
+            "description": "The 15 Pro wallpaper in stunning new colors! (Does not change your 15 Pro's color)",
+            "url": "wallpapers/custom/iPhone15ProColorCollection.tendies",
+            "preview": "previews/custom/images/iPhone15ProColorCollection.png",
+            "preview_device": 4,
+            "authors": "@applintrnl",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "bundle"
+            ]
+        },
+        {
+            "name": "\ud83d\uddff",
+            "description": "Rickroll + Bad Apple as Live Photos - These will appear in Suggested Photos",
+            "url": "wallpapers/custom/RickApple.tendies",
+            "preview": "previews/custom/images/RickApple.png",
+            "preview_device": 3,
+            "authors": "@forcequitOS",
+            "tags": [
+                "addsToGallery",
+                "bundle",
+                "video",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Apple Logo",
+            "description": "An animated RGB Apple logo for your background!",
+            "url": "wallpapers/custom/AppleLogo.tendies",
+            "preview": "previews/custom/gifs/AppleLogo.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "iSoda",
+            "description": "A color swap reminiscent of popular sodas! Look who wants to drink me!",
+            "url": "wallpapers/custom/iSoda.tendies",
+            "preview": "previews/custom/gifs/iSoda.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "appearanceAware",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Nexus",
+            "description": "A remake of the android nexus wallpaper.",
+            "url": "wallpapers/custom/Nexus.tendies",
+            "preview": "previews/custom/gifs/Nexus.gif",
+            "preview_device": 1,
+            "authors": "@bebebole",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Midnight Brisa",
+            "description": "Purple and blue gradient waves.",
+            "url": "wallpapers/custom/MidnightBrisa.tendies",
+            "preview": "previews/custom/gifs/MidnightBrisa.gif",
+            "preview_device": 1,
+            "authors": "@limonetexd",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Stars",
+            "description": "Something with stars.",
+            "url": "wallpapers/custom/Stars.tendies",
+            "preview": "previews/custom/gifs/Stars.gif",
+            "preview_device": 1,
+            "authors": "@kukuruzka165",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Swelvy",
+            "description": "Assets taken from Geode SDK.",
+            "url": "wallpapers/custom/Swelvy.tendies",
+            "preview": "previews/custom/gifs/Swelvy.gif",
+            "preview_device": 1,
+            "authors": "@anhnguyenlost13",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Graduation",
+            "description": "But he made Graduation!",
+            "url": "wallpapers/custom/Graduation.tendies",
+            "preview": "previews/custom/gifs/Graduation.gif",
+            "preview_device": 1,
+            "authors": "@ROWNIE & @Mars",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Patrick on a Seahorse",
+            "description": "Patricc vibing on da seahorse",
+            "url": "wallpapers/custom/PatrickSeahorse.tendies",
+            "preview": "previews/custom/gifs/PatrickSeahorse.gif",
+            "preview_device": 1,
+            "authors": "@ellibarks",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone"
+            ]
+        },
+        {
+            "name": "Nintendo Switch",
+            "description": "You better switch up that attitude or wii are gonna have a problem.",
+            "url": "wallpapers/custom/NintendoSwitch.tendies",
+            "preview": "previews/custom/gifs/NintendoSwitch.gif",
+            "preview_device": 1,
+            "authors": "@c4ndyf1sh",
+            "tags": [
+                "animated",
+                "addsToGallery",
+                "iPhone",
+                "iPad"
+            ]
+        },
+        {
+            "name": "Flower Boy",
+            "description": "Flower Boy by Tyler, The Creator (2017)",
+            "url": "wallpapers/custom/flower_boy_v1.tendies",
+            "preview": "previews/custom/gifs/FlowerBoy.gif",
+            "preview_device": 1,
+            "authors": "@softminted_",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Purple Wave",
+            "description": "Just a purple wave",
+            "url": "wallpapers/custom/wave.tendies",
+            "preview": "previews/custom/gifs/PurpleWave.gif",
+            "preview_device": 1,
+            "authors": "@cgbakery",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Black Goku",
+            "description": "Reveal your true powers.",
+            "url": "wallpapers/custom/BlackGoku.tendies",
+            "preview": "previews/custom/gifs/BlackGoku.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Broken Screen",
+            "description": "YOU BROKE MY SCREEN!",
+            "url": "wallpapers/custom/BrokenScreen.tendies",
+            "preview": "previews/custom/gifs/BrokenScreen.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Desert",
+            "description": "In the desert",
+            "url": "wallpapers/custom/Desert.tendies",
+            "preview": "previews/custom/gifs/Desert.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "FatCat",
+            "description": "A Wallpaper based on a fat cat meme",
+            "url": "wallpapers/custom/FatCat.tendies",
+            "preview": "previews/custom/gifs/FatCat.gif",
+            "preview_device": 1,
+            "authors": "@thefelix32",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Dragon Ball",
+            "description": "A Wallpaper based on Dragonball",
+            "url": "wallpapers/custom/Dragonball.tendies",
+            "preview": "previews/custom/gifs/Dragonball.gif",
+            "preview_device": 1,
+            "authors": "@thefelix324",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Honor Magic V Flip",
+            "description": "Cute!",
+            "url": "wallpapers/custom/HonorMagicVFlip.tendies",
+            "preview": "previews/custom/gifs/HonorMagicVFlip.gif",
+            "preview_device": 1,
+            "authors": "@yangjiii",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Skeleton",
+            "description": "Peace, my friend.",
+            "url": "wallpapers/custom/Skelet.tendies",
+            "preview": "previews/custom/gifs/Skelet.gif",
+            "preview_device": 1,
+            "authors": "@rezanen",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Stonks Up",
+            "description": "YES!",
+            "url": "wallpapers/custom/StonksUp.tendies",
+            "preview": "previews/custom/gifs/StonksUp.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Stonks Down",
+            "description": "NO!",
+            "url": "wallpapers/custom/StonksDown.tendies",
+            "preview": "previews/custom/gifs/StonksDown.gif",
+            "preview_device": 1,
+            "authors": "@jam_minty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "I am in.",
+            "description": "$%@!",
+            "url": "wallpapers/custom/i_am_in.tendies",
+            "preview": "previews/custom/gifs/i_am_in.gif",
+            "preview_device": 1,
+            "authors": "@i.mes",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Neon Lines",
+            "description": "Based on Wallpaper Engine > Workshop > Snow's Workshop > Neon Lines | 4K on Steam",
+            "url": "wallpapers/custom/neon_lines.tendies",
+            "preview": "previews/custom/gifs/neon_lines.gif",
+            "preview_device": 1,
+            "authors": "@i.mes",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Orbital",
+            "description": "Just like a door.",
+            "url": "wallpapers/custom/orbitalv1.tendies",
+            "preview": "previews/custom/gifs/orbitalv1.gif",
+            "preview_device": 1,
+            "authors": "@luctilus",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Ubuntu",
+            "description": "Linux..?",
+            "url": "wallpapers/custom/ubuntu.tendies",
+            "preview": "previews/custom/gifs/ubuntu.gif",
+            "preview_device": 1,
+            "authors": "@mak5er",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Wii boot/home",
+            "description": "*Wii Menu SFX*",
+            "url": "wallpapers/custom/wiiFIX.tendies",
+            "preview": "previews/custom/gifs/wiiFIX.gif",
+            "preview_device": 1,
+            "authors": "@cgbakery",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Windows 11",
+            "description": "Windows Phones are back??",
+            "url": "wallpapers/custom/windows11.tendies",
+            "preview": "previews/custom/gifs/windows11.gif",
+            "preview_device": 1,
+            "authors": "@mak5er",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Sonic Mania Mirage Saloon",
+            "description": "Wallpaper of Mirage Saloon from Sonic Mania\n\nFulfilled suggestion",
+            "url": "wallpapers/custom/smania.tendies",
+            "preview": "previews/custom/gifs/SonicManiaMirageSaloon.gif",
+            "preview_device": 1,
+            "authors": "semay",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 5 Menu Wallpaper",
+            "description": "Persona fans are gonna love this.",
+            "url": "wallpapers/custom/P5Theme.tendies",
+            "preview": "previews/custom/gifs/P5Theme.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Lil Uzi Vert vs. The World",
+            "description": "Based off of the 2016 XXL Freshman's album they made that same year!",
+            "url": "wallpapers/custom/Lil_Uzi_Vert_Vs_The_World.tendies",
+            "preview": "previews/custom/gifs/Lil_Uzi_Vert_Vs_The_World.gif",
+            "preview_device": 1,
+            "authors": "@dularkian on GitHub",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 4 Wallpaper",
+            "description": "Looks better with Always On Display (i think).",
+            "url": "wallpapers/custom/P4Theme.tendies",
+            "preview": "previews/custom/gifs/P4Theme.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "replacesWallpapers",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Persona 3 Classic Wallpaper",
+            "description": "This time it\u2019s the classic UI. Not Reload.",
+            "url": "wallpapers/custom/P3ClassicTheme.tendies",
+            "preview": "previews/custom/gifs/P3ClassicTheme.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Sheikah Slate (Zelda BOTW)",
+            "description": "The Sheikah Slate from BOTW for your iPhone!",
+            "url": "wallpapers/custom/sheikah_slate.tendies",
+            "preview": "previews/custom/gifs/sheikah_slate.gif",
+            "preview_device": 1,
+            "authors": "Vioxel",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Sonic's Gang",
+            "description": "Sonic, Knuckles, Amy, and Tails running across your screen!",
+            "url": "wallpapers/custom/sonic_gang_sky_slow.tendies",
+            "preview": "previews/custom/gifs/sonicgang.gif",
+            "preview_device": 1,
+            "authors": "Vioxel",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Whole Lotta Red",
+            "description": "Animated Artwork from Playboi Carti's 2020 Studio Album.",
+            "url": "wallpapers/custom/wholelottared.tendies",
+            "preview": "previews/custom/gifs/wlr.gif",
+            "preview_device": 1,
+            "authors": "tankhalfempty",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Undertale Ruins Scrolling Wallpaper",
+            "description": "Ruins, now on your phone!",
+            "url": "wallpapers/custom/UndertaleRuins.tendies",
+            "preview": "previews/custom/gifs/UndertaleRuinsScrolling.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Kendrick Lamar: Damn.",
+            "description": "DAMN. Kendrick cooked on this one.",
+            "url": "wallpapers/custom/DamnByTrinityHades.tendies",
+            "preview": "previews/custom/gifs/DamnByTrinityHades.gif",
+            "preview_device": 1,
+            "authors": "trinityhades",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Lumon Run v2",
+            "description": "Your outie is scared.",
+            "url": "wallpapers/custom/LumonRunv2TrinityHades.tendies",
+            "preview": "previews/custom/gifs/LumonRunv2Video.gif",
+            "preview_device": 1,
+            "authors": "trinityhades",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Macrodata Refinement",
+            "description": "Find the scary numbers.",
+            "url": "wallpapers/custom/RefiningWithDoors.tendies",
+            "preview": "previews/custom/gifs/RefiningWithDoors.gif",
+            "preview_device": 1,
+            "authors": "trinityhades",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Solar System",
+            "description": "Sun, earth, and moon.",
+            "url": "wallpapers/custom/SolarSystem.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_06-09-2025_20-03-05_1.gif",
+            "preview_device": 1,
+            "authors": "@squair.dev",
+            "tags": [
+                "iPhone",
+                "addsToGallery",
+                "animated"
+            ]
+        },
+        {
+            "name": "Niko OneShot",
+            "description": "Clean animation of Niko from OneShot!",
+            "url": "wallpapers/custom/niko.tendies",
+            "preview": "previews/custom/gifs/niko.gif",
+            "preview_device": 1,
+            "authors": "@squair.dev",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "DVD Screensaver",
+            "description": "It hits the corner!",
+            "url": "wallpapers/custom/DVDcolor.tendies",
+            "preview": "previews/custom/gifs/DVDcolor.gif",
+            "preview_device": 1,
+            "authors": "@mightycooldude12 on disc",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Super Mario Bros.",
+            "description": "Play Super Mario Bros. on your lock screen!",
+            "url": "wallpapers/custom/SuperMarioBros.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_09-06-2025_19-06-44_1.gif",
+            "preview_device": 1,
+            "authors": "@squair.dev",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Exploding Colors",
+            "description": "Some cool colors exploding on your screen!",
+            "url": "wallpapers/custom/ExplodingColors.tendies",
+            "preview": "previews/custom/gifs/ExplodingColors.gif",
+            "preview_device": 1,
+            "authors": "@squair.dev",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        },
+        {
+            "name": "Gyro Depths",
+            "description": "A wave-based gyro wallpaper! (iOS 26+)",
+            "url": "wallpapers/custom/GyroDepths.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_09-27-2025_13-28-06_1.gif",
+            "preview_device": 2,
+            "authors": "@dootskyre",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        }
+    ],
     "default": [
-  {
-      "name": "Default Wallpapers",
-      "description": "Default Collections wallpapers",
-      "url": "wallpapers/default/Defaults.tendies",
-      "preview": "previews/default/images/Defaults.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone Air",
-      "description": "*15 Pro or newer, iOS 26+",
-      "url": "wallpapers/default/iPhone Air.tendies",
-      "preview": "previews/default/images/iPhoneAir.png",
-      "preview_device": 2
-  },
-  {
-      "name": "iPhone 17 Pro",
-      "description": "*iOS 26+",
-      "url": "wallpapers/default/iPhone 17 Pro.tendies",
-      "preview": "previews/default/images/iPhone17Pro.png",
-      "preview_device": 2
-  },
-  {
-      "name": "iPhone 17",
-      "description": "*iOS 26+",
-      "url": "wallpapers/default/iPhone 17.tendies",
-      "preview": "previews/default/images/iPhone17.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 16 Pro",
-      "description": "*15 Pro or newer, iOS 18+",
-      "url": "wallpapers/default/iPhone 16 Pro.tendies",
-      "preview": "previews/default/images/iPhone16Pro.png",
-      "preview_device": 2
-  },
-  {
-      "name": "iPhone 16",
-      "description": "*iOS 18+",
-      "url": "wallpapers/default/iPhone 16.tendies",
-      "preview": "previews/default/images/iPhone16.png",
-      "preview_device": 2
-  },
-  {
-      "name": "iPhone 16e",
-      "description": "*iOS 18+",
-      "url": "wallpapers/default/iPhone 16e.tendies",
-      "preview": "previews/default/images/iPhone16e.png",
-      "preview_device": 2
-  },
-  {
-      "name": "iPhone 15 Pro",
-      "url": "wallpapers/default/iPhone15Pro.tendies",
-      "preview": "previews/default/images/iPhone15Pro.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 15",
-      "url": "wallpapers/default/iPhone15.tendies",
-      "preview": "previews/default/images/iPhone15.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 14 Pro",
-      "url": "wallpapers/default/iPhone14Pro.tendies",
-      "preview": "previews/default/images/iPhone14Pro.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 14",
-      "url": "wallpapers/default/iPhone14.tendies",
-      "preview": "previews/default/images/iPhone14.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone SE 3rd Gen",
-      "url": "wallpapers/default/iPhoneSEGen3.tendies",
-      "preview": "previews/default/images/iPhoneSEGen3.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 13 Pro",
-      "url": "https://atums.world/raw/iPhone13Pro.tendies",
-      "preview": "previews/default/images/iPhone13Pro.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 13",
-      "url": "https://atums.world/raw/iPhone13Descriptors.tendies",
-      "preview": "previews/default/images/iPhone13.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 12 Pro",
-      "url": "https://atums.world/raw/iPhone12Pro.tendies",
-      "preview": "previews/default/images/iPhone12Pro.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 12",
-      "url": "https://atums.world/raw/iPhone12.tendies",
-      "preview": "previews/default/images/iPhone12.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone SE 2nd Gen",
-      "url": "wallpapers/default/iPhoneSEGen2.tendies",
-      "preview": "previews/default/images/iPhoneSEGen2.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 11 Pro",
-      "url": "https://atums.world/raw/iPhone11Pro.tendies",
-      "preview": "previews/default/images/iPhone11Pro.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPhone 11",
-      "url": "wallpapers/default/iPhone11.tendies",
-      "preview": "previews/default/images/iPhone11.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPad mini 6th Gen",
-      "url": "wallpapers/default/iPadMiniGen6.tendies",
-      "preview": "previews/default/images/iPadMiniGen6.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPad Air 6th Gen",
-      "url": "wallpapers/default/iPadAirGen6.tendies",
-      "preview": "previews/default/images/iPadAirGen6.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPad Air 5th Gen",
-      "url": "wallpapers/default/iPadAirGen5.tendies",
-      "preview": "previews/default/images/iPadAirGen5.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iPad Air 4th Gen",
-      "url": "wallpapers/default/iPadAirGen4.tendies",
-      "preview": "previews/default/images/iPadAirGen4.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iOS 17",
-      "url": "wallpapers/default/iOS17.tendies",
-      "preview": "previews/default/images/iOS17.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iOS 16",
-      "url": "wallpapers/default/iOS16.tendies",
-      "preview": "previews/default/images/iOS16.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iOS 15",
-      "url": "wallpapers/default/iOS15.tendies",
-      "preview": "previews/default/images/iOS15.png",
-      "preview_device": 4
-  },
-  {
-      "name": "Lake (iOS 14)",
-      "url": "wallpapers/default/Lake.tendies",
-      "preview": "previews/default/images/Lake.png",
-      "preview_device": 4
-  },
-  {
-      "name": "Desert",
-      "url": "wallpapers/default/Desert.tendies",
-      "preview": "previews/default/images/Desert.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iOS 14",
-      "url": "wallpapers/default/iOS14.tendies",
-      "preview": "previews/default/images/iOS14.png",
-      "preview_device": 4
-  },
-  {
-      "name": "iOS 13",
-      "url": "wallpapers/default/iOS13.tendies",
-      "preview": "previews/default/images/iOS13.png",
-      "preview_device": 4
-  }
-],
+        {
+            "name": "Default Wallpapers",
+            "description": "Default Collections wallpapers",
+            "url": "wallpapers/default/Defaults.tendies",
+            "preview": "previews/default/images/Defaults.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone Air",
+            "description": "*15 Pro or newer, iOS 26+",
+            "url": "wallpapers/default/iPhone Air.tendies",
+            "preview": "previews/default/images/iPhoneAir.png",
+            "preview_device": 2
+        },
+        {
+            "name": "iPhone 17 Pro",
+            "description": "*iOS 26+",
+            "url": "wallpapers/default/iPhone 17 Pro.tendies",
+            "preview": "previews/default/images/iPhone17Pro.png",
+            "preview_device": 2
+        },
+        {
+            "name": "iPhone 17",
+            "description": "*iOS 26+",
+            "url": "wallpapers/default/iPhone 17.tendies",
+            "preview": "previews/default/images/iPhone17.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 16 Pro",
+            "description": "*15 Pro or newer, iOS 18+",
+            "url": "wallpapers/default/iPhone 16 Pro.tendies",
+            "preview": "previews/default/images/iPhone16Pro.png",
+            "preview_device": 2
+        },
+        {
+            "name": "iPhone 16",
+            "description": "*iOS 18+",
+            "url": "wallpapers/default/iPhone 16.tendies",
+            "preview": "previews/default/images/iPhone16.png",
+            "preview_device": 2
+        },
+        {
+            "name": "iPhone 16e",
+            "description": "*iOS 18+",
+            "url": "wallpapers/default/iPhone 16e.tendies",
+            "preview": "previews/default/images/iPhone16e.png",
+            "preview_device": 2
+        },
+        {
+            "name": "iPhone 15 Pro",
+            "url": "wallpapers/default/iPhone15Pro.tendies",
+            "preview": "previews/default/images/iPhone15Pro.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 15",
+            "url": "wallpapers/default/iPhone15.tendies",
+            "preview": "previews/default/images/iPhone15.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 14 Pro",
+            "url": "wallpapers/default/iPhone14Pro.tendies",
+            "preview": "previews/default/images/iPhone14Pro.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 14",
+            "url": "wallpapers/default/iPhone14.tendies",
+            "preview": "previews/default/images/iPhone14.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone SE 3rd Gen",
+            "url": "wallpapers/default/iPhoneSEGen3.tendies",
+            "preview": "previews/default/images/iPhoneSEGen3.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 13 Pro",
+            "url": "https://atums.world/raw/iPhone13Pro.tendies",
+            "preview": "previews/default/images/iPhone13Pro.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 13",
+            "url": "https://atums.world/raw/iPhone13Descriptors.tendies",
+            "preview": "previews/default/images/iPhone13.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 12 Pro",
+            "url": "https://atums.world/raw/iPhone12Pro.tendies",
+            "preview": "previews/default/images/iPhone12Pro.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 12",
+            "url": "https://atums.world/raw/iPhone12.tendies",
+            "preview": "previews/default/images/iPhone12.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone SE 2nd Gen",
+            "url": "wallpapers/default/iPhoneSEGen2.tendies",
+            "preview": "previews/default/images/iPhoneSEGen2.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 11 Pro",
+            "url": "https://atums.world/raw/iPhone11Pro.tendies",
+            "preview": "previews/default/images/iPhone11Pro.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPhone 11",
+            "url": "wallpapers/default/iPhone11.tendies",
+            "preview": "previews/default/images/iPhone11.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPad mini 6th Gen",
+            "url": "wallpapers/default/iPadMiniGen6.tendies",
+            "preview": "previews/default/images/iPadMiniGen6.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPad Air 6th Gen",
+            "url": "wallpapers/default/iPadAirGen6.tendies",
+            "preview": "previews/default/images/iPadAirGen6.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPad Air 5th Gen",
+            "url": "wallpapers/default/iPadAirGen5.tendies",
+            "preview": "previews/default/images/iPadAirGen5.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iPad Air 4th Gen",
+            "url": "wallpapers/default/iPadAirGen4.tendies",
+            "preview": "previews/default/images/iPadAirGen4.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iOS 17",
+            "url": "wallpapers/default/iOS17.tendies",
+            "preview": "previews/default/images/iOS17.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iOS 16",
+            "url": "wallpapers/default/iOS16.tendies",
+            "preview": "previews/default/images/iOS16.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iOS 15",
+            "url": "wallpapers/default/iOS15.tendies",
+            "preview": "previews/default/images/iOS15.png",
+            "preview_device": 4
+        },
+        {
+            "name": "Lake (iOS 14)",
+            "url": "wallpapers/default/Lake.tendies",
+            "preview": "previews/default/images/Lake.png",
+            "preview_device": 4
+        },
+        {
+            "name": "Desert",
+            "url": "wallpapers/default/Desert.tendies",
+            "preview": "previews/default/images/Desert.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iOS 14",
+            "url": "wallpapers/default/iOS14.tendies",
+            "preview": "previews/default/images/iOS14.png",
+            "preview_device": 4
+        },
+        {
+            "name": "iOS 13",
+            "url": "wallpapers/default/iOS13.tendies",
+            "preview": "previews/default/images/iOS13.png",
+            "preview_device": 4
+        }
+    ],
     "template": [
         {
             "name": "Layers",
