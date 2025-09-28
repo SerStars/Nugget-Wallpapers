@@ -1119,6 +1119,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "GitHub",
+            "description": "First wallpaper made in CAPlayground",
+            "url": "wallpapers/custom/GitHub.tendies",
+            "preview": "previews/custom/gifs/wallpaper-demo.gif",
+            "preview_device": 1,
+            "authors": "@enkei64",
+            "tags": [
+                "iPhone",
+                "addsToGallery",
+                "animated"
+            ]
         }
     ],
     "default": [
