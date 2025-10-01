@@ -1145,6 +1145,19 @@
                 "iPhone",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Kanye West",
+            "description": "Animated wallpaper for the legendary Hip-Hop artist Kanye West",
+            "url": "wallpapers/custom/kanyewest.tendies",
+            "preview": "previews/custom/gifs/kanyewest.gif",
+            "preview_device": 1,
+            "authors": "retronbv",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [

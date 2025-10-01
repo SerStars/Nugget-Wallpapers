@@ -56,7 +56,7 @@
             },
             {
                 "question": "ConnectionTerminatedError() or ConnectionAbortedError()",
-                "answer": "****Your device failed to connect.\nWindows: Make sure you have [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k) (or iTunes if [Apple Devices](https://support.apple.com/en-us/106372) does not work) open, and your device is showing. Go back into Nugget, and refresh the device list.\nMacOS: open Finder, and make sure you see your device listed on the side, above Tags. Go back to nugget, and refresh the device list.\n\nMake sure you are using the port on the back of your pc (if applicable), and you are using a cable that is able to transfer data."
+                "answer": "****Your device failed to connect.****\nWindows: Make sure you have [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k) (or iTunes if [Apple Devices](https://support.apple.com/en-us/106372) does not work) open, and your device is showing. Go back into Nugget, and refresh the device list.\nMacOS: open Finder, and make sure you see your device listed on the side, above Tags. Go back to nugget, and refresh the device list.\n\nMake sure you are using the port on the back of your pc (if applicable), and you are using a cable that is able to transfer data."
             },
             {
                 "question": "\"Your device is managed and MDM backup encryption is on.\"",
@@ -87,7 +87,7 @@
             },
             {
                 "question": "Device is password protected!",
-                "answer": "****Device access error (again x2).****\n\nMake sure you have your phone unlocked, and trusted. Windows users: [download Python](https://apps.microsoft.com/detail/9pnrbtzxmb4z)."
+                "answer": "****Device access error (again x2).****\nMake sure you have your phone unlocked, and trusted. Windows users: [download Python](https://apps.microsoft.com/detail/9pnrbtzxmb4z)."
             },
             {
                 "question": "Wallpapers not appearing.",
