@@ -7,10 +7,6 @@
                 "answer": "****Yes.****\nTo find out what features are supported, go to the [Nugget Helper](https://squair.xyz/nuggethelper).\nNow __PLEASE__ stop asking. It's annoying to respond with the same thing every time."
             },
             {
-                "question": "How do I install Nugget?",
-                "answer": "****Go to the [Nugget Helper](https://squair.xyz/nuggethelper).****\nThe [Nugget Helper](https://squair.xyz/nuggethelper) will tell you how to set up Nugget on Windows, or MacOS."
-            },
-            {
                 "question": "Is Nugget a virus?",
                 "answer": "****No.****\nNugget is not a virus, as long as you're using the [official Nugget GitHub](https://github.com/LeminLimez/Nugget/releases) or the [website](https://cowabun.ga).\nSome older versions of Nugget may trigger a antivirus screen on Windows, but the devs assure you that this will not harm your computer in any way."
             },
@@ -52,7 +48,7 @@
             },
             {
                 "question": "Nugget says \"Partially supported.\".",
-                "answer": "****You cannot have mobilegestalt tweaks.****\nYou cannot enable mobilegestalt tweaks like Apple Intelligence, Always on Display, or Dynamic Island.\nThough, you can still enable tweaks like Posterboard, Daemons, and Springboard options.\nFor more info, go to the [Nugget Helper](https://squair.xyz/nuggethelper)."
+                "answer": "****You cannot have mobilegestalt tweaks.****\nYou cannot enable mobilegestalt tweaks like Apple Intelligence, Always on Display, or Dynamic Island.\nThough, you can still enable tweaks like Posterboard, Daemons, and Springboard options."
             },
             {
                 "question": "ConnectionTerminatedError() or ConnectionAbortedError()",
@@ -64,13 +60,13 @@
             },
             {
                 "question": "No URL Specified.",
-                "answer": "****Your iOS/iPadOS version is unsupported.****\nOnly versions of iOS/iPadOS 18.2 Developer Beta 2 and under support mobilegestalt. See [Nugget Helper](https://squair.xyz/nuggethelper)."
+                "answer": "****Your iOS/iPadOS version is unsupported.****\nOnly versions of iOS/iPadOS 18.2 Developer Beta 2 and under support mobilegestalt."
             },
             {
                 "question": "Nugget.exe is not opening on Windows.",
-                "answer": "****You opened it incorrectly.****\nType 'win+r' and in the newly opened window, type 'cmd' and press enter. Drag 'Nugget.exe' into command prompt, and press enter.\nWait a few seconds before Nugget opens. Don't close command prompt. See [Nugget Helper](https://squair.xyz/nuggethelper)."
+                "answer": "****You opened it incorrectly.****\nType 'win+r' and in the newly opened window, type 'cmd' and press enter. Drag 'Nugget.exe' into command prompt, and press enter.\nWait a few seconds before Nugget opens. Don't close command prompt."
             },{
-                "question": "Nugget.exe is not opening on MacOS.",
+                "question": "Nugget.app is not opening on MacOS.",
                 "answer": "****Use the lastest build.****\nDownload the [latest release of Nugget](https://github.com/leminlimez/Nugget/releases/latest)."
             },
             {
@@ -104,7 +100,7 @@
         "faq": [
             {
                 "question": "How do I install Pocket Poster?",
-                "answer": "The guide can be found [here.](https://squair.xyz/pocketposter)"
+                "answer": "The guide can be found [here.](https://pocketposter.squair.xyz/)"
             },
             {
                 "question": "'The file \".Trash\" coulnd't be saved...'",
