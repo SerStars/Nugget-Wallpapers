@@ -55,6 +55,19 @@
         ]
     },
     {
+        "name": "Autumn City",
+        "description": "Autumn themed wallpaper with falling leaves",
+        "url": "wallpapers/custom/Autumn.tendies",
+        "preview": "previews/custom/gifs/ScreenRecording_10-30-2025_5-55-45_pm_1.gif",
+        "preview_device": 1,
+        "authors": "nNPC",
+        "tags": [
+            "animated",
+            "iPhone",
+            "addsToGallery"
+        ]
+    }
+    {
         "name": "Flappy Bird",
         "description": "A simple flappy bird game!",
         "url": "wallpapers/custom/FlappyBird.tendies",
