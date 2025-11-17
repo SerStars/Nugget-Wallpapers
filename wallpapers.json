@@ -1171,7 +1171,22 @@
                 "iPhone",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Bowser Jr.",
+            "description": "Has a light mode and dark mode",
+            "url": "wallpapers/custom/Bowser-Jr-.tendies",
+            "preview": "previews/custom/gifs/BowserJr.gif",
+            "preview_device": 1,
+            "authors": "Aperaine",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery",
+                "appearanceAware"
+            ]
         }
+        
     ],
     "default": [
         {
