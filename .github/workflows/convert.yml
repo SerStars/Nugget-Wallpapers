@@ -1,4 +1,4 @@
-name: Convert Videos to GIFs
+name: Convert Videos to WebM
 on:
   push:
     paths:
@@ -26,32 +26,40 @@ jobs:
         if: steps.cache-ffmpeg.outputs.cache-hit != 'true'
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
 
-      - name: Convert videos to GIFs
+      - name: Convert videos to WebM
         id: convert
         run: |
           found_videos=false
+          shopt -s nullglob
+
           for video in previews/**/videos/*.{mp4,mov}; do
             if [[ -f "$video" ]]; then
               base_dir="$(dirname "$(dirname "$video")")"
-              output_dir="${base_dir}/gifs"
+              output_dir="${base_dir}/webm"
               mkdir -p "$output_dir"
+
               filename=$(basename "$video")
               filename_noext="${filename%.*}"
-              output_gif="${output_dir}/${filename_noext}.gif"
+              output_webm="${output_dir}/${filename_noext}.webm"
               
-              # Only convert if GIF doesn't exist
-              if [[ ! -f "$output_gif" ]]; then
+              # Only convert if WebM doesn't exist
+              if [[ ! -f "$output_webm" ]]; then
                 found_videos=true
-                echo "Converting $video to GIF..."
-                ffmpeg -i "$video" \
-                  -vf "fps=15,scale=320:-1:flags=lanczos" \
-                  -c:v gif \
-                  "$output_gif"
+                echo "Converting $video → WebM..."
+                
+                ffmpeg -y -i "$video" \
+                  -c:v libvpx-vp9 \
+                  -b:v 0 \
+                  -crf 35 \
+                  -an \
+                  -auto-alt-ref 0 \
+                  "$output_webm"
               else
-                echo "Skipping $video - GIF already exists"
+                echo "Skipping $video — WebM already exists"
               fi
             fi
           done
+
           echo "found_videos=$found_videos" >> $GITHUB_OUTPUT
 
       - name: Create Pull Request
@@ -59,17 +67,16 @@ jobs:
         id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
-          commit-message: "chore: convert videos to GIFs"
-          title: "Convert videos to GIFs"
-          body: "Automatically converted video previews to GIF format"
-          branch: video-to-gif
+          commit-message: "chore: convert videos to WebM"
+          title: "Convert video previews to WebM"
+          body: "Automatically converted new video previews to efficient WebM format."
+          branch: video-to-webm
           delete-branch: true
 
-      # TODO: Fix this
-      # - name: Enable Auto-Merge
-      #   if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
-      #   uses: peter-evans/enable-pull-request-automerge@v2
-      #   with:
-      #     token: ${{ secrets.GITHUB_TOKEN }}
-      #     pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
-      #     merge-method: squash
+      - name: Enable Auto-Merge
+        if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
+          merge-method: squash
