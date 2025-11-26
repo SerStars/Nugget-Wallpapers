@@ -73,10 +73,10 @@ jobs:
           branch: video-to-webm
           delete-branch: true
 
-      - name: Enable Auto-Merge
-        if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
-        uses: peter-evans/enable-pull-request-automerge@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
-          merge-method: squash
+      # - name: Enable Auto-Merge
+      #   if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
+      #   uses: peter-evans/enable-pull-request-automerge@v2
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
+      #     merge-method: squash
