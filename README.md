@@ -1,10 +1,9 @@
 # Nugget Wallpapers
-The official repo for wallpapers for [Cowabun.ga/Wallpapers][WallpapersWebsite]!
+The official wallpaper collection repo for [Cowabun.ga/Wallpapers][WallpapersWebsite]!
 
 ## Add your own wallpaper!
 To add your own wallpaper(s), checkout [CONTRIBUTING.md](CONTRIBUTING.md)!
 
-## Note to repo owners:
-Do NOT merge this to main, still in WIP.
+LICENSE: [GPL-3.0](#LICENSE)
 
 [WallpapersWebsite]: [https://cowabun.ga/wallpapers]
