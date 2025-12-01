@@ -5,5 +5,12 @@
         "url": "wallpapers/passtheme/Lemin.passtheme",
         "preview": "previews/passtheme/images/Lemin.png",
         "authors": "Rick"
+    },
+    {
+        "name": "Thumb Up (Troll) card",
+        "description": "The thumbs up credit card (made in ms paint)",
+        "url": "wallpapers/passtheme/ThumbsUpCard.batter",
+        "preview": "previews/passtheme/images/ThumbsUpCard.png",
+        "authors": "Bonked_TNT"
     }
 ]
