@@ -10,14 +10,14 @@
         "name": "LavaLamp",
         "description": "Customizable mesh gradient wallpaper that uses your images!",
         "url": "wallpapers/template/LavaLamp.batter",
-        "preview": "previews/template/gifs/LavaLamp.gif",
+        "preview": "previews/template/gifs/lavalamp.gif",
         "authors": "@dularkian on GitHub"
     },
     {
         "name": "Spatial",
         "description": "Customizable progressive blur wallpaper, like Apple Invites/Music! (2 variants included)",
         "url": "wallpapers/template/Spatial.batter",
-        "preview": "previews/template/gifs/Spatial.gif",
+        "preview": "previews/template/gifs/spatial.gif",
         "authors": "@dularkian on GitHub"
     }
 ]
