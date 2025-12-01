@@ -4,6 +4,8 @@ on:
     paths:
       - 'previews/**/videos/*.mp4'
       - 'previews/**/videos/*.mov'
+      - 'previews/**/videos/*.MP4'
+      - 'previews/**/videos/*.MOV'
     branches:
       - dev
   workflow_dispatch:

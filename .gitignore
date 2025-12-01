@@ -1,6 +1,9 @@
 .DS_Store
-dnp
-wallpapers/default/iPhone11Pro.tendies
-wallpapers/default/iPhone12.tendies
-wallpapers/default/iPhone12Pro.tendies
-wallpapers/default/iPhone13Descriptors.tendies
+dnu
+convert.py
+
+# Below are wallpapers that are too large to be uploaded to GitHub, they are uploaded to a server instead.
+wallpapers/apple/iPhone11Pro.tendies
+wallpapers/apple/iPhone12.tendies
+wallpapers/apple/iPhone12Pro.tendies
+wallpapers/apple/iPhone13Descriptors.tendies

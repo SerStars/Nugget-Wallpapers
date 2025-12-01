@@ -1,0 +1,21 @@
+{
+    "icon": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
+    "faq": [
+        {
+            "question": "How do I install Pocket Poster?",
+            "answer": "The guide can be found [here.](https://pocketposter.squair.xyz/)"
+        },
+        {
+            "question": "'The file \".Trash\" coulnd't be saved...'",
+            "answer": "There's muiltiple things that can cause this error. Such as a incorrect App Hash, error with PosterBoard, or an invalid `.tendies` file.\n\nA very common issue is that you may have cleared collections inside of Nugget. To fix this, go to `Settings > Language & Region` and click \"Add Language...\". Chose another language. Then, switch back to your preferred language.\n\nMake sure your app hash matches the one that you received from running the \"Pocket Poster Helper\" button in Nugget's settings.\n\nIf this is an error with PosterBoard, use the fallback shortcut by going to Pocket Poster's settings, and clicking \"Download Fallback Shortcut\". Run it, and try applying again.\n\nIf these fixes still don't work for you, check your `.tendies` file. It could be misconfigured. Try using it on your pc, or contacting the creator."
+        },
+        {
+            "question": "Where can I find wallpapers?",
+            "answer": "You can find wallpapers at [cowabun.ga/wallpapers](https://cowabun.ga/wallpapers) or in the [PosterRestore Discord server](https://discord.com/invite/gWtzTVhMvh)."
+        },
+        {
+            "question": "'Your app hash is incorrect. Please set it again.'",
+            "answer": "Make sure you're using the latest version of Pocket Poster and Nugget. Detect your App Hash again.\n\nIf this doesn't work, copy and paste your app hash into the notes app. you'll most likley see 2 seperate strings, for example:\nXXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX\nXXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX\nDelete the second line of characters from your app hash. Only keeping the first line of your app hash, apply again."
+        }
+    ]
+}

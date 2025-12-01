@@ -3,24 +3,21 @@
         "name": "Layers",
         "description": "Create a custom depth effect and light/dark Wallpaper layer-by-layer!",
         "url": "wallpapers/template/Layers.batter",
-        "preview": "previews/template/gifs/layerslikelytemp.gif",
-        "preview_device": 1,
+        "preview": "previews/template/gifs/Layers.gif",
         "authors": "@dularkian on GitHub"
     },
     {
         "name": "LavaLamp",
         "description": "Customizable mesh gradient wallpaper that uses your images!",
-        "url": "wallpapers/template/LavaLamp V1.2.batter",
-        "preview": "previews/template/gifs/lavalamp.gif",
-        "preview_device": 1,
+        "url": "wallpapers/template/LavaLamp.batter",
+        "preview": "previews/template/gifs/LavaLamp.gif",
         "authors": "@dularkian on GitHub"
     },
     {
         "name": "Spatial",
         "description": "Customizable progressive blur wallpaper, like Apple Invites/Music! (2 variants included)",
-        "url": "wallpapers/template/Spatial V2.7.batter",
-        "preview": "previews/template/gifs/spatial.gif",
-        "preview_device": 1,
+        "url": "wallpapers/template/Spatial.batter",
+        "preview": "previews/template/gifs/Spatial.gif",
         "authors": "@dularkian on GitHub"
     }
 ]
