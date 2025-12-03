@@ -1,0 +1,29 @@
+{
+    "name": "Pocket Poster",
+    "subtitle": "Pocket Poster official AltStore Source.",
+    "description": "This is the official AltStore Source for Pocket Poster.\nCustom PosterBoard animated wallpapers for iOS 17.0+",
+    "iconURL": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
+    "website": "https://github.com/LeminLimez/Pocket-Poster",
+    "tintColor": "#DD94F3",
+    "apps": [
+        {
+            "name": "Pocket Poster",
+            "bundleIdentifier": "com.lemin.Pocket-Poster",
+            "developerName": "LeminLimez",
+            "subtitle": "Custom PosterBoard animated wallpapers for iOS 17.0+",
+            "localizedDescription": "Custom PosterBoard animated wallpapers for iOS 17.0+",
+            "iconURL": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
+            "tintColor": "#DD94F3",
+            "versions": [
+                {
+                    "version": "3.0",
+                    "date": "2025-08-29",
+                    "size": 13686800,
+                    "localizedDescription": "Features:\n - Added an in-app explore page for finding and downloading wallpapers\n - Added custom CarPlay wallpapers (will not work on iOS 26.0)\n - Preliminary iOS 16 support (not all wallpapers will work)\n - Improved certain error messages\n\nBug Fixes:\n - Fixed the aspect ratio/rotation of imported custom videos\n - Fixed the update API not being called correctly\n - Fixed issues with some alerts not popping up\n - Other various app stability improvements",
+                    "downloadURL": "https://github.com/leminlimez/Pocket-Poster/releases/download/v3.0/Pocket_Poster.ipa",
+                    "minOSVersion": "17.0"
+                }
+            ]
+        }
+    ]
+}
