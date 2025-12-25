@@ -1093,5 +1093,17 @@
             "animated",
             "addsToGallery"
         ]
+    },
+    {
+    "name": "Kakurenbo",
+    "description": "Someone's watching you...",
+    "url": "wallpapers/custom/KakuRenbo.tendies",
+    "preview": "previews/custom/gifs/KakuRenbo.gif",
+    "authors": "@Rhyru9",
+    "tags": [
+            "iPhone",
+            "animated",
+            "addsToGallery"
+        ]
     }
 ]
