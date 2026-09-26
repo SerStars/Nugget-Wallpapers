@@ -54,6 +54,22 @@
         "contest": "🏁 Best Winter/Christmas Wallpaper"
     },
     {
+        "id": 119,
+        "name": "The Odyssey",
+        "description": "Based off of the poster!",
+        "url": "wallpapers/custom/The_Odyssey.tendies",
+        "preview": "previews/custom/gifs/The_Odyssey.gif",
+        "authors": "squair.dev"
+    },
+    {
+        "id": 118,
+        "name": "Night City",
+        "description": "The City of Legends!",
+        "url": "wallpapers/custom/Night_City.tendies",
+        "preview": "previews/custom/gifs/Night_City.gif",
+        "authors": "squair.dev"
+    },
+    {
         "id": 106,
         "name": "DVD Screensaver",
         "description": "It hits the corner!",
@@ -828,13 +844,5 @@
         "url": "wallpapers/custom/niko.tendies",
         "preview": "previews/custom/gifs/niko.gif",
         "authors": "@squair.dev"
-    },
-    {
-        "name": "Night City",
-        "authors": "@squair.dev",
-        "description": "The City of Legends!",
-        "url": "wallpapers/custom/Night_City.tendies",
-        "preview": "previews/custom/gifs/Night_City.gif",
-        "id": 7004208
     }
 ]
