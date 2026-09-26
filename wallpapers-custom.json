@@ -54,6 +54,14 @@
         "contest": "🏁 Best Winter/Christmas Wallpaper"
     },
     {
+        "id": 119,
+        "name": "The Odyssey",
+        "description": "Based off of the poster!",
+        "url": "wallpapers/custom/The_Odyssey.tendies",
+        "preview": "previews/custom/gifs/The_Odyssey.gif",
+        "authors": "squair.dev"
+    },
+    {
         "id": 118,
         "name": "Night City",
         "description": "The City of Legends!",
