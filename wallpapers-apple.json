@@ -7,6 +7,13 @@
         "preview": "previews/apple/images/Defaults.png"
     },
     {
+        "id": 32,
+        "name": "iPhone 18 Pro",
+        "description": "*iOS 27RC+",
+        "url": "wallpapers/apple/iPhone 18 Pro.tendies",
+        "preview": "previews/apple/images/iPhone 18 Pro.png"
+    },
+    {
         "id": 31,
         "name": "iPhone 17e",
         "description": "*iOS 26.3.1+",
