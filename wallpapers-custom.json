@@ -54,6 +54,14 @@
         "contest": "🏁 Best Winter/Christmas Wallpaper"
     },
     {
+        "id": 120,
+        "name": "Frieren Beyond Journey's End",
+        "description": "Frieren with petals",
+        "url": "wallpapers/custom/Frieren_Beyond_Journey's_End.tendies",
+        "preview": "previews/custom/gifs/Frieren_Beyond_Journey's_End.gif",
+        "authors": "Aice"
+    },
+    {
         "id": 119,
         "name": "The Odyssey",
         "description": "Based off of the poster!",
