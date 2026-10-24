@@ -876,5 +876,13 @@
         "url": "wallpapers/custom/niko.tendies",
         "preview": "previews/custom/gifs/niko.gif",
         "authors": "@squair.dev"
+    },
+    {
+        "id": 118,
+        "name": "ZAH1DE",
+        "description": "ZAH1DE animated wallpaper",
+        "url": "wallpapers/custom/zahide.tendies",
+        "preview": "previews/custom/gifs/zahide.gif",
+        "authors": "@matyasondrejj5-lgtm"
     }
 ]
