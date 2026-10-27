@@ -54,6 +54,14 @@
         "contest": "🏁 Best Winter/Christmas Wallpaper"
     },
     {
+        "id": 125,
+        "name": "Graduation Album",
+        "description": "I made Graduation!  But my version. Supports Gyro and Depth effect.",
+        "url": "wallpapers/custom/Graduation_Album.tendies",
+        "preview": "previews/custom/gifs/Graduation_Album.gif",
+        "authors": "discord: <@737322531459039266>"
+    },
+    {
         "id": 124,
         "name": "A$AP ROCKY",
         "description": "A$APPPPPP",
